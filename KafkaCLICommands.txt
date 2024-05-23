@@ -1,0 +1,48 @@
+Kafka CLI Commands:
+
+bin/kafka-console-producer.sh --broker-list localhost:9092 --topic TutorialTopic
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic --from-beginning
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic --group group101
+
+bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 2 --partitions 4 --topic TutorialTopic222
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic2 --group group102
+
+bin/kafka-topics.sh -bootstrap-server localhost:9092 --list
+
+bin/kafka-topics.sh -bootstrap-server localhost:9092 --delete --topic TutorialTopic
+
+bin/kafka-topics.sh -bootstrap-server localhost:9092 --delete --topic 'test-.*'
+
+bin/kafka-topics.sh -bootstrap-server localhost:9092 --describe --topic TutorialTopic2
+
+bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --list
+
+bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group group101
+
+bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group group101 --members
+
+bin/kafka-consumer-groups.sh --bootstrap-server localhost:9092 --describe --group group101 --members --verbose
+
+bin/kafka-console-producer.sh --bootstrap-server localhost:9092 --topic TutorialTopic2 --property "parse.key=true" --property "key.separator=:"
+> key1:One event
+> key2:Oh, another event!
+
+bin/kafka-topics.sh --bootstrap-server localhost:9092 --alter --topic TutorialTopic2 --partitions 6
+
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic2 --from-beginning --property key.separator="-" --property print.key=true --property print.value=true
+
+bin/kafka-configs.sh -bootstrap-server localhost:9092 --alter --entity-type topics --entity-name TutorialTopic2 --add-config retention.ms=1000
+
+bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 4 --topic TutorialTopic3 --config retention.ms=10000
+
+İstediğin partition'a yaz istediğin partition'dan oku;
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic4 --from-beginning --property key.separator="-" --property print.key=true --property print.value=true --partition 
+
+İstediğin offset'den oku
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic4 --property key.separator="-" --property print.key=true --property print.value=true --partition 1 --offset 2
+

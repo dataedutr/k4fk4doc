@@ -1,0 +1,128 @@
+KSQL Uygulamaları
+
+UYGULAMA-1;
+ORDERS;
+1- Java Code üzerinden ORDERS topic veri besleme (Kafka'da topic oluştur)
+2- Create Stream
+CREATE STREAM orders_stream (customerId VARCHAR, category VARCHAR, itemName VARCHAR,
+                             quantity INT,price DOUBLE,orderDate VARCHAR)
+                             WITH (kafka_topic='orders2', value_format='JSON');
+
+3- TEST
+select * from orders_stream;
+
+4- TEST FILTER
+select * from orders_stream where CATEGORY='Gıda';
+
+5- API ENDPOINT TEST
+localhost:8088
+
+6- QUERY KSQL API
+POST localhost:8088/query
+BODY 
+{
+    "ksql": "SELECT * FROM orders_stream;"
+}
+
+7- Push Query
+select * from orders_stream where CATEGORY='Gıda' emit changes;
+
+8- Stream ENDPOINT API
+curl -X POST http://localhost:8088/query-stream \
+    -H "Content-Type: application/vnd.ksql.v1+json; charset=utf-8" \
+    -d '{
+        "sql": "SELECT * FROM orders_stream where CATEGORY='Gıda' EMIT CHANGES;",
+        "streamsProperties": {}
+    }'
+
+9- SHOW STREAMS;
+
+10- Create new topic with stream
+CREATE STREAM ORDERS_GIDA WITH (kafka_topic = 'orders_gida') AS
+select * from orders_stream where CATEGORY='Gıda' emit changes;
+
+11- SHOW queries extended;
+
+12- describe ORDERS_GIDA extended;
+
+13- Hangi category'de kaç sipariş var ?
+select category,count(*) as total_order from ORDERS_STREAM group by category EMIT CHANGES;
+
+14- Pull queries don't support GROUP BY clauses
+select category,count(*) as total_order from ORDERS_STREAM group by category;
+
+15- CREATE TABLE orders_category AS
+select category,count(*) as total_order from ORDERS_STREAM group by category EMIT CHANGES;
+
+16- select * from orders_category;
+
+17- CREATE WINDOW
+CREATE TABLE ORDERS_WINDOW
+AS SELECT CATEGORY ,COUNT(*) AS TOTAL_ORDERS 
+FROM ORDERS_STREAM WINDOW TUMBLING (SIZE 90 SECOND) 
+GROUP BY CATEGORY;
+
+18- select * from ORDERS_WINDOW;
+{
+  "CATEGORY": "Deterjan - Temizlik",
+  "WINDOWSTART": 1717531200000,
+  "WINDOWEND": 1717531290000,
+  "TOTAL_ORDERS": 2
+}
+
+19- cast date
+SELECT 
+    ORDERDATE,
+    CAST(PARSE_TIMESTAMP(ORDERDATE, 'dd.MM.yyyy') AS DATE) AS order_date
+FROM orders_stream
+EMIT CHANGES;
+
+20- CONCAT ve UPPERCASE işlemi
+select *,concat(CATEGORY,'--',ucase(ITEMNAME)) as category_itemname
+from orders_stream EMIT CHANGES;
+
+21- CREATE STREAM orders_stream_concat as
+select *,concat(CATEGORY,'--',ucase(ITEMNAME)) as category_itemname
+from orders_stream EMIT CHANGES;
+
+22- MERGE İŞLEMİ
+_TR TOPIC'E VERİ BESLE
+_EN TOPIC'E VERİ BESLE
+
+CREATE STREAM orders_stream_tr (customerId VARCHAR, category VARCHAR, itemName VARCHAR,
+                             quantity INT,price DOUBLE,orderDate VARCHAR)
+                             WITH (kafka_topic='orders2_TR', value_format='JSON');
+
+CREATE STREAM orders_stream_en (customerId VARCHAR, category VARCHAR, itemName VARCHAR,
+                             quantity INT,price DOUBLE,orderDate VARCHAR)
+                             WITH (kafka_topic='orders2_EN', value_format='JSON');
+
+
+create stream all_orders_stream as 
+select 'TR' as data_source,* from ORDERS_STREAM_TR;
+
+
+INSERT INTO ALL_ORDERS_STREAM
+SELECT 'EN' AS data_source,* from ORDERS_STREAM_EN;
+
+SELECT * FROM all_orders_stream;
+
+SELECT DATA_SOURCE,count(*) FROM all_orders_stream GROUP BY DATA_SOURCE EMIT CHANGES;
+
+create table data_source_all_orders as
+SELECT DATA_SOURCE,count(*) FROM all_orders_stream GROUP BY DATA_SOURCE EMIT CHANGES;
+
+select * from data_source_all_orders;
+
+tekrar _en'e data besle
+
+23- 
+
+
+24- KSQL içerisinde message içerisindeki timestamp ve key gibi alanları alabiliyor muyuz ?
+
+
+
+
+create stream fix_gida_orders_stream WITH(kafka_topic = 'fix_gida_orders') as
+select ITEMNAME as PRODUCT, CAST(PARSE_TIMESTAMP(ORDERDATE, 'dd.MM.yyyy') AS DATE) AS FIX_DATE, CUSTOMERID from orders_stream where category='Gıda';

@@ -1,0 +1,61 @@
+Kafka Cloud Cluster Kurulumu
+
+1- java -version
+apt update
+apt install default-jre
+
+2- Apache Kafka sitesinden indirme;
+
+curl https://archive.apache.org/dist/kafka/3.2.1/kafka_2.13-3.2.1.tgz -o /home/kafka.tgz
+
+3- tar -xvzf /home/kafka.tgz
+
+4- nano /home/kafka_2.13-3.2.1/config/server.properties
+broker.id=0
+listeners=PLAINTEXT://0.0.0.0:9092
+advertised.listeners=PLAINTEXT://host1:9092
+zookeeper.connect=host1:2181,host2:2181
+
+5- mkdir -p /data/zookeeper
+touch /data/zookeeper/myid
+echo "0" > /data/zookeeper/myid
+
+ikinci makinede en alttaki bölüm;
+echo "1" > /data/zookeeper/myid
+
+
+6- nano /home/kafka_2.13-3.2.1/config/zookeeper.properties 
+dataDir=/data/zookeeper
+# the port at which the clients will connect
+clientPort=2181
+# disable the per-ip limit on the number of connections since this is a non-production config
+maxClientCnxns=0
+# Disable the adminserver by default to avoid port conflicts.
+# Set the port to something non-conflicting if choosing to enable this
+admin.enableServer=false
+# admin.serverPort=8080
+server.0=172.233.212.233:2888:3888
+server.1=88.80.190.87:2888:3888
+initLimit=5
+syncLimit=2
+
+eski_doc:
+dataDir=/data/zookeeper
+clientPort=2181
+admin.enableServer=false
+server.0=192.248.178.95:2888:3888
+server.1=155.138.148.132:2888:3888
+initLimit=5
+syncLimit=2
+
+7- nohup /home/kafka_2.13-3.2.1/bin/zookeeper-server-start.sh /home/kafka_2.13-3.2.1/config/zookeeper.properties > /home/zookeeper.log 2>&1 &
+
+8- nohup /home/kafka_2.13-3.2.1/bin/kafka-server-start.sh /home/kafka_2.13-3.2.1/config/server.properties > /home/kafka.log 2>&1 &
+
+9- TESTLER 
+bin/kafka-topics.sh -bootstrap-server localhost:9092 --list
+bin/kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 2 --partitions 4 --topic TutorialTopic222
+bin/kafka-console-producer.sh --broker-list localhost:9092 --topic TutorialTopic222
+bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic TutorialTopic222
+
+/home/kafka/kafka-broker-api-versions.sh --bootstrap-server localhost:9092

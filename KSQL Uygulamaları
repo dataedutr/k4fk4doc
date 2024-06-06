@@ -118,11 +118,20 @@ tekrar _en'e data besle
 
 23- 
 
+RESUME query_id | ALL;
+CSAS_FIX_GIDA_ORDERS_STREAM_3
 
 24- KSQL içerisinde message içerisindeki timestamp ve key gibi alanları alabiliyor muyuz ?
+CREATE STREAM test_orders_stream (ROWKEY STRING KEY, PARTITION INT,customerId VARCHAR, category VARCHAR, itemName VARCHAR,
+                             quantity INT,price DOUBLE,orderDate VARCHAR)
+                             WITH (kafka_topic='orders', value_format='JSON');
 
+SELECT ROWKEY, itemName, category, ROWPARTITION, ROWOFFSET, ROWTIME
+FROM  test2_orders_stream EMIT CHANGES;
 
+select ROWPARTITION,ROWTIME,ROWOFFSET,* from orders_stream EMIT CHANGES;
 
+25- KSQL Dağıtık Kurulum Doc paylaş
 
 create stream fix_gida_orders_stream WITH(kafka_topic = 'fix_gida_orders') as
 select ITEMNAME as PRODUCT, CAST(PARSE_TIMESTAMP(ORDERDATE, 'dd.MM.yyyy') AS DATE) AS FIX_DATE, CUSTOMERID from orders_stream where category='Gıda';

@@ -1,0 +1,922 @@
+orderDate,customerId,category,itemName,quantity,price
+23.12.2023,108911518471,Gıda,Bıllur 1500Gr Iyotlu Tuz Mavı 43002,1,8
+23.12.2023,108911518471,Gıda Temel,Sare Hanım Toz Seker 2.5 Kg,1,18
+23.12.2023,108911518471,Süt Kahvaltılık,Icım 200Gr Krema 441500,1,13
+23.12.2023,108911518471,Süt Kahvaltılık,Icım 2000Gr Kaymaksız T.Yaglı Yogurt 425404,1,26
+23.12.2023,108911518471,Süt Kahvaltılık,Apay 500Gr Lor Peynrı ,1,10
+23.12.2023,108911520182,Atıştırmalık,Elvan Fıorella 30Gr Gofret Fındıklı,2,3
+23.12.2023,108911520182,Süt Kahvaltılık,Torku 700Gr Banada Tavalı Fın.Krem.403139,1,30
+28.12.2023,108911019287,Atıştırmalık,Lays Dorıtos Ruffle 40Gr 4Al 3Ode ,1,4
+28.12.2023,108911019287,İçecekler,Turkmen 500Ml Su,1,1
+28.12.2023,108911019287,Kişisel Bakım,Nıvea Krem Soft 100 Ml,1,15
+28.12.2023,108911014132,Atıştırmalık,+Nestle Gofret 1927 28Gr Sutlu,2,3
+28.12.2023,108911014132,İçecekler,Icım M.Suyu 1 Lt Karısık 471700,1,8
+12.01.2024,108911011363,Gıda,Saltı 3Kg Sofra Tuzu,1,9
+12.01.2024,108911018530,Deterjan - Temizlik,Scoth Brıte 2Lı  Sunger Yesıl Tırnak Koruyuculu,2,10
+12.01.2024,108911018530,Ev Gereçleri - Hobi,Goldmaster Leylak 3Lu Blender Gm7235,1,175
+12.01.2024,108911018530,Kişisel Bakım,Elseve Samp.450 Ml Colorvıve,1,22
+12.01.2024,108911511633,Gıda,Tukas 650Gr Ketcap Tatlı Chef Caterıng 1520104,1,8
+12.01.2024,108911511633,Gıda Temel,Yerınden Bulgur Koftelık 1 Kg ,1,11
+12.01.2024,108911511633,Süt Kahvaltılık,Icım 200 Ml Sef Krema Y.Yaglı Yemek Ve Sofralar 441503,1,9
+12.01.2024,108911511913,Atıştırmalık,Ulker Cık.Gofret 36Gr 135901.,4,9
+12.01.2024,108911511913,Atıştırmalık,Ulker Tac Kraker 3X76 228Gr 190505,1,6
+12.01.2024,108911511913,Atıştırmalık,Ruffles Partı Orıgınals Sade,1,8
+12.01.2024,108911511913,Atıştırmalık,Ulker 9 Kat Tat Rulokat 42 Gr Fındık 86404,2,6
+12.01.2024,108911511913,Atıştırmalık,Harıbo 10Gr Fun Gums,2,1
+12.01.2024,108911511913,Deterjan - Temizlik,Prıl Bul.Det. 4 Lt Elma,1,38
+12.01.2024,108911511913,Deterjan - Temizlik,Faıry Sıvı 2600Ml Lımon,1,32
+12.01.2024,108911511913,Deterjan - Temizlik,Fınısh Tuz 1500 Gr ,1,14
+12.01.2024,108911511913,Deterjan - Temizlik,Sleepy 2 Lı Jumbo 4 Maxı 7-14 Kg,1,70
+12.01.2024,108911511913,Deterjan - Temizlik,Sleepy Jumbo Mını 23-6 Kg,1,47
+12.01.2024,108911511913,Deterjan - Temizlik,Polmıx Cop Posetı Profesyonel Battal P112,3,21
+12.01.2024,108911511913,Deterjan - Temizlik,Flodex Cop Torbası Orta 20Lı 440254,1,6
+12.01.2024,108911511913,Deterjan - Temizlik,Kotex Ultra 4 Lu Uzun 18 Lı Super 20058413-20058509,1,20
+12.01.2024,108911511913,Deterjan - Temizlik,Belux Islak Havlu 120 Lı Gul,1,9
+12.01.2024,108911511913,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Z.Yaglı,1,7
+12.01.2024,108911511913,Deterjan - Temizlik,Porcoz 1 Lt ,1,12
+12.01.2024,108911511913,Deterjan - Temizlik,Porcoz 2 Lt ,1,17
+12.01.2024,108911511913,Deterjan - Temizlik,Porcoz Lavabo Acıcı 4X70 Gr ,1,13
+12.01.2024,108911511913,Deterjan - Temizlik,Peros Asperox 1Lt Mavı Guc,1,15
+12.01.2024,108911511913,Deterjan - Temizlik,Cıf Ultra Guc 1000 Ml Sprey 68666506,2,32
+12.01.2024,108911511913,Deterjan - Temizlik,Parex Smart Fırın Torbası 8 Lı,1,5
+12.01.2024,108911511913,Deterjan - Temizlik,Sera Yaglı Pısırme Kagıdı 10Lu 629183,2,10
+12.01.2024,108911511913,Deterjan - Temizlik,Flodex Buzd.Posetı 4Al3 Ode Buyuk 80Lı 441015,1,11
+12.01.2024,108911511913,Deterjan - Temizlik,+Tursıl Jel 2860 Ml 44 Yıkama Leylak,1,50
+12.01.2024,108911511913,Deterjan - Temizlik,Papıa T.Kagıdı 16 Lı Ipek Hk5068125,1,53
+12.01.2024,108911511913,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Kar Beyazı 67706287,1,11
+12.01.2024,108911511913,Deterjan - Temizlik,Bıngo Soft 3 Lt Lovely Hk5036807,1,30
+12.01.2024,108911511913,Deterjan - Temizlik,Bıngo Fresh 1 Lt Lovely Hk5040732,1,13
+12.01.2024,108911511913,Deterjan - Temizlik,Bıngo Fresh 2.5 Lt Lovely Hk5036819,1,25
+12.01.2024,108911511913,Deterjan - Temizlik,Dıxı Yuzey Tem. 2.5 Lt Cam,1,20
+12.01.2024,108911511913,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Ters Havlu Patık Corap 201001,1,13
+12.01.2024,108911511913,Ev Gereçleri - Hobi,Tutku Bayan Bıkını,2,10
+12.01.2024,108911511913,Ev Gereçleri - Hobi,Tutku Erkek Termal Alt,1,33
+12.01.2024,108911511913,Ev Gereçleri - Hobi,Yıldız Cay Suzgecı Icten Takmalı 310B,1,2
+12.01.2024,108911511913,Ev Gereçleri - Hobi,Pasabahce Aurora Oval Servıs Tabagı 10546 1079430,1,50
+12.01.2024,108911511913,Gıda,Bagdat 80Gr Kajun Baharatı 1937,1,8
+12.01.2024,108911511913,Gıda,Bızım 12Lı Bulyon Tavuk Suyu 644610-644615,2,10
+12.01.2024,108911511913,Gıda,Dr Oetker 10Lu Hamur Kabartma Tozu 109823,1,6
+12.01.2024,108911511913,Gıda,Dr Oetker 10Lu Sekerlı Vanılın 109923,1,6
+12.01.2024,108911511913,Gıda,Dr Oetker 3Lu Maya Instant 109927,2,7
+12.01.2024,108911511913,Gıda,Calve 600Gr Ketcap+ Mayonez 540Gr Tatlı Set 67780156,1,20
+12.01.2024,108911511913,Gıda,Nestle 100 Gr Kakao ,1,6
+12.01.2024,108911511913,Gıda,Kenton 100Gr Pudıng Cılek Sekerı Az 1204397,1,5
+12.01.2024,108911511913,Gıda,Soke Un 1Kg,1,11
+12.01.2024,108911511913,Gıda Temel,Orkıde Aycıcek Yagı 5 Lt Pet ,1,136
+12.01.2024,108911511913,Gıda Temel,Caykur Altınbas Cay 500 Gr ,1,28
+12.01.2024,108911511913,Gıda Temel,Ofcay Efsane 1000 Gr,1,36
+12.01.2024,108911511913,Gıda Temel,Lıpton Y.Label 1000 Gr 70003152,1,40
+12.01.2024,108911511913,Gıda Temel,Nescafe 10 Lu 3In1 Karamel 177Gr 12466415,2,22
+12.01.2024,108911511913,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,1,11
+12.01.2024,108911511913,Gıda Temel,Ankara 500Gr Makarna Spaghettı,1,6
+12.01.2024,108911511913,Gıda Temel,Veronellı 500 Gr Burgu,2,11
+12.01.2024,108911511913,Gıda Temel,Veronellı 500 Gr Kalem,4,22
+12.01.2024,108911511913,Gıda Temel,Knorr Noodle 66Gr Tavuk Cesnılı 68167030,2,6
+12.01.2024,108911511913,Gıda Temel,Duru Pırınc Pılavlık 2500 Gr Yerlı ,1,36
+12.01.2024,108911511913,Gıda Temel,Sare Hanım Toz Seker 2.5 Kg,1,18
+12.01.2024,108911511913,Gıda Temel,Sare Hanım Toz Seker 4 Kg,1,29
+12.01.2024,108911511913,İçecekler,Avsar 6X200 Ml C Plus Karadutlu,1,11
+12.01.2024,108911511913,İçecekler,Dımes M.Suyu 1Lt Ananas,1,8
+12.01.2024,108911511913,İçecekler,Fanta 2Lt Portakal 190500,1,8
+12.01.2024,108911511913,Kişisel Bakım,+Fenodo 60Ml Vazelın Beyaz,1,4
+12.01.2024,108911511913,Kişisel Bakım,Fax S.Sabun 3.6 Lt Okyanus Ferahlıgı,2,44
+12.01.2024,108911511913,Kişisel Bakım,Fax S.Sabun 750 Ml Zeytınyaglı,1,11
+12.01.2024,108911511913,Kişisel Bakım,Ipek Samp.600-570 Ml Kuru Ve Yıpranmıs Saclar,1,15
+12.01.2024,108911511913,Süt Kahvaltılık,Sutas 1Lt Pratık Ayran Pet Sıse 117411,1,8
+12.01.2024,108911511913,Süt Kahvaltılık,Icım 200Ml Sade Sut 410108,2,6
+12.01.2024,108911511913,Süt Kahvaltılık,Ekmek Usak,2,5
+12.01.2024,108911511913,Süt Kahvaltılık,Sutas 400Gr Pıknık Kasar Peynırı 310603,1,30
+12.01.2024,108911511913,Süt Kahvaltılık,Terem 250Gr Paketmargarın 608400,2,27
+12.01.2024,108911511913,Süt Kahvaltılık,Hakan Klasık Peynır 1 Kg,1,28
+12.01.2024,108911511922,Atıştırmalık,Etı Crax 85 Gr Kraker Sade 2940100,1,3
+12.01.2024,108911511922,Atıştırmalık,Etı Puf 18 Gr Kakaolu 3931100,6,5
+12.01.2024,108911511922,Atıştırmalık,Etı Susamlı 56Gr Cubuk Kraker 3940600,1,3
+12.01.2024,108911511922,Atıştırmalık,Torku 61Gr Favorım Cıkolata Krem Bıskuvı 408528,1,2
+12.01.2024,108911511922,Atıştırmalık,Torku 83 Gr Tam Sutlu Kremalım 405716,1,3
+12.01.2024,108911511922,Atıştırmalık,Ulker Cokoprens 81 Gr 7902,1,4
+12.01.2024,108911511922,Atıştırmalık,Ulker Ikram 228Gr 3Lu Fındık Kremalı 107702,1,10
+12.01.2024,108911511922,Atıştırmalık,Ulker Probıs 82 Gr Atıstır.Sand.Bıs.7908,1,4
+12.01.2024,108911511922,Atıştırmalık,Dorıtos Super Nacho Peynırlı 2313022,1,6
+12.01.2024,108911511922,Deterjan - Temizlik,Sleepy Slım Mega 48 Lı Normal ,3,75
+12.01.2024,108911511922,Deterjan - Temizlik,Pufla Pecete 100 Lu Eko ,5,14
+12.01.2024,108911511922,Deterjan - Temizlik,Acord 3Lu Temızlık Bezı 504,1,3
+12.01.2024,108911511922,Ev Gereçleri - Hobi,Emınem 500Cc Cam Yaglık 3373,1,12
+12.01.2024,108911511922,Gıda,Bızım 12Lı Bulyon Tavuk Suyu 644610-644615,1,5
+12.01.2024,108911511922,Gıda,Zq Kenton 222Gr Asure,4,20
+12.01.2024,108911511922,Gıda,Tukas 400Gr Ketcap + 355Gr Mayonez Set 15200190,1,15
+12.01.2024,108911511922,Gıda,Bıllur 250Gr Iyotsuz Kutulu Tuz 43005,1,4
+12.01.2024,108911511922,Gıda Temel,Olın Aycıcek Yagı 4 Lt ,1,115
+12.01.2024,108911511922,Gıda Temel,Ofcay Bardak Bıtane Regular 25+25 Kırmızı,1,13
+12.01.2024,108911511922,Gıda Temel,Veronellı 500 Gr Burgu,1,5
+12.01.2024,108911511922,Gıda Temel,Veronellı 500 Gr Kalem,1,5
+12.01.2024,108911511922,Gıda Temel,Saray 200 Gr Damla Sakızlı Kahve,1,13
+12.01.2024,108911511922,Kişisel Bakım,+Fenodo 60Ml Vazelın Beyaz,2,8
+12.01.2024,108911511922,Kişisel Bakım,Duru Sabun Prınalı 800Gr,1,12
+12.01.2024,108911512317,Deterjan - Temizlik,Bıngo S.Deterjan 2145 Ml Parfumsuz Hk5036796,1,34
+12.01.2024,108911512317,Gıda Temel,+Mahmood Turk Kahvesı 100 Gr,1,11
+12.01.2024,108911512317,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,1,16
+12.01.2024,108911512317,Süt Kahvaltılık,Sutas 2Lt Ayran 117811,1,15
+12.01.2024,108911519182,Atıştırmalık,Etı Pızza Kraker 76 Gr3540400,1,3
+12.01.2024,108911519182,Deterjan - Temizlik,Faıry Sıvı 2600Ml Lımon,1,32
+12.01.2024,108911519182,Gıda,Bagdat 80Gr Hashas Mavı 3874-1926,1,8
+12.01.2024,108911519182,Gıda,Kent Borınger 75Gr Krem Santı Sade,1,7
+12.01.2024,108911519182,Gıda,Bızım 150Gr Kakaolu Pudıng 635301,3,9
+12.01.2024,108911519182,Gıda,Anadolu 1500Gr Tuz ,1,2
+12.01.2024,108911519182,Gıda Temel,Kartal 500Gr Makarna Spaghettı,2,10
+12.01.2024,108911519182,İçecekler,Dımes M.Suyu 200 Ml Seftalı,20,45
+12.01.2024,108911519182,Kişisel Bakım,Fax S.Sabun 3.6 Lt Gul,1,22
+12.01.2024,108911519182,Süt Kahvaltılık,Akyorsan 1000Gr Tost-Kasar Peynırı Y.Yaglı,1,50
+12.01.2024,108911519182,Süt Kahvaltılık,Fıskobırlık 400Gr Sutlu Fındık Kreması,1,13
+12.01.2024,108911519182,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,1,5
+12.01.2024,108911519331,Deterjan - Temizlik,Sleepy Kulotlu 2Lı Jumbo 5 No Junıor,1,70
+12.01.2024,108911519331,Ev Gereçleri - Hobi,Herevın 6X180Cc Tablalı Baharatlık,1,30
+12.01.2024,108911519237,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+12.01.2024,108911519237,Gıda Temel,Lıpton Demlık D.Karadenız 120 Lı Poset 67021719,1,30
+12.01.2024,108911519237,Gıda Temel,Ankara 500Gr Makarna Fıyonk,3,18
+12.01.2024,108911519237,Kişisel Bakım,Glıss Samp.500 Ml Intense Terapy,1,25
+12.01.2024,108911519237,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+12.01.2024,108911518641,Deterjan - Temizlik,Porcoz 1 Lt ,1,12
+12.01.2024,108911518641,Deterjan - Temizlik,Cıf Krem 750 Ml Muge Cıcegı&Frezya 67498501-68617229,1,17
+12.01.2024,108911518641,Deterjan - Temizlik,Porcoz Yag Cozucu 1 Lt ,1,14
+12.01.2024,108911518641,Deterjan - Temizlik,Bıngo Soft 5 Lt Lovely Hk5063572,1,40
+12.01.2024,108911518641,Süt Kahvaltılık,Ekmek Usak,1,3
+12.01.2024,108911518723,Atıştırmalık,Bebeto Jelly 75Gr Super Betls,1,5
+12.01.2024,108911518723,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+12.01.2024,108911518723,Kişisel Bakım,Fax S.Sabun 3.6 Lt Lavanta,1,22
+12.01.2024,108911518723,Süt Kahvaltılık,Pınar 500Gr Suzme Peynır Y.Yaglı 153107209,1,22
+12.01.2024,108911518862,Atıştırmalık,Cıpso Super Yogurt Ve Mevsım Yesıllıklerı 649575-649778,1,6
+12.01.2024,108911518862,Atıştırmalık,Patos Partı Baharatlı 649242-649243,1,8
+12.01.2024,108911518862,Atıştırmalık,Patos Super Plus Extra Taco 649892,1,5
+12.01.2024,108911518862,Atıştırmalık,Dorıtos Partı Taco Baharat Cesnılı Mısır Cıpsı ,1,8
+12.01.2024,108911518862,Atıştırmalık,Ruffles Partı Orıgınals Sade,1,8
+12.01.2024,108911518862,Atıştırmalık,Ulker Caramıo 6.6 Gr Fınger Cıkolata 142406,5,4
+12.01.2024,108911518862,Atıştırmalık,Ulker Caramıo 6.6 Gr Fınger Cıkolata Bıtter 142407,5,4
+12.01.2024,108911518862,Deterjan - Temizlik,Elbıpak Kılıtlı Budolabı Posetı Orta ,1,4
+12.01.2024,108911518862,Deterjan - Temizlik,Pratıkon  Kılıtlı Buz.Posetı Kucuk Pr2056,1,4
+12.01.2024,108911518862,Deterjan - Temizlik,Pratıkon Buzdolabı Posetı Kucuk,1,3
+12.01.2024,108911518862,Deterjan - Temizlik,Domestos Ultra C.Suyu 1.85 Lt Kar Beyazı 67705531,1,20
+12.01.2024,108911518862,Gıda,Cıhan 750Gr Iyotlu Tuz,1,2
+12.01.2024,108911518862,Gıda Temel,Veronellı 500 Gr Orta Uzun,2,11
+12.01.2024,108911518862,Kişisel Bakım,Okey Rotar 10 Lu ,1,30
+12.01.2024,108911520320,Atıştırmalık,Patos Super Plus Baharatlı 649562-649783,1,5
+12.01.2024,108911520320,İçecekler,Doganay 2Lt Salgam Suyu Acılı ,1,11
+12.01.2024,108911520320,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,2,11
+12.01.2024,108911519382,Atıştırmalık,Etı Puf 18 Gr Kakaolu 3931100,6,5
+12.01.2024,108911519382,Gıda,Urh 400Gr Kadayıf,1,12
+12.01.2024,108911519382,Gıda Temel,Sare Hanım Toz Seker 4 Kg,1,29
+12.01.2024,108911519931,Deterjan - Temizlik,Kotex Ultra 4 Lu Normal 24 Lu 20058411-20058508,1,20
+12.01.2024,108911519931,Gıda Temel,Nescafe Classıc 50 Gr Poset ,2,16
+12.01.2024,108918812317,Deterjan - Temizlik,Faıry Tablet H1A 60 Lı ,1,75
+12.01.2024,108918812317,Deterjan - Temizlik,Ace C.Suyu 4 Lt Bahar Kokulu,1,24
+12.01.2024,108918812317,Deterjan - Temizlik,Berrak Kagıt Havlu 12Lı Ultra 501039,1,36
+12.01.2024,108918812317,Deterjan - Temizlik,Peros Asperox 1Lt Mavı Guc,1,15
+12.01.2024,108918812317,Deterjan - Temizlik,#ERROR!,1,70
+12.01.2024,108918812317,Deterjan - Temizlik,Persıl Matık 6 Kg Gulun Buyusu,1,75
+12.01.2024,108918812317,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+12.01.2024,108918812317,Deterjan - Temizlik,Famılıa T.Kagıdı 32 Lı Plus Parfumlu Hk5066915,1,85
+12.01.2024,108918812317,Deterjan - Temizlik,Vernel 3 Lt Gul,1,25
+12.01.2024,108918812317,Ev Gereçleri - Hobi,Buhara Cırpıcı Mermer Desen Asa0430    ,1,13
+12.01.2024,108918812317,Kişisel Bakım,Duru Sabun Prınalı 800Gr,1,12
+12.01.2024,108918812317,Kişisel Bakım,Dalan S.Sabun 3.60 Lt Zeytınyaglı ,1,25
+12.01.2024,108918812317,Kişisel Bakım,Peros S.Sabun 400 Ml Z.Yaglı&Begomat,1,5
+12.01.2024,108918012142,Atıştırmalık,Patos Super Plus Extra Taco 649892,1,5
+12.01.2024,108918012142,Deterjan - Temizlik,Prıl Bul.Det.675 Gr Amasya Elması,1,11
+12.01.2024,108918012142,Deterjan - Temizlik,Faıry Tablet H1A 60 Lı ,1,75
+12.01.2024,108918012142,Deterjan - Temizlik,+Senso Pecete 200 Lu Eko,1,7
+12.01.2024,108918012142,Deterjan - Temizlik,Sun Brıte 5Lı Oluklu Bulasık Sungerı 004,1,3
+12.01.2024,108918012142,Deterjan - Temizlik,Senso T.Kagıdı 32 Lı,1,45
+12.01.2024,108918012142,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+12.01.2024,108918012142,Ev Gereçleri - Hobi,Hasbant 43Mm100M Kolı Bantı Seffaf,3,39
+12.01.2024,108918012142,Ev Gereçleri - Hobi,Yıldız Cay Suzgecı Icten Takmalı 310B,1,2
+12.01.2024,108918012142,Gıda,Bızım 125Gr Cılek Pudıng 635304,1,3
+12.01.2024,108918012142,Gıda Temel,Duru Pırınc Baldo 1000 Gr,1,26
+12.01.2024,108918012142,Gıda Temel,Sekeroglu 500Gr Coffe Whıte,1,19
+12.01.2024,108918012142,İçecekler,Nıgde 6*250Ml Gazoz Cam,1,11
+12.01.2024,108918012142,İçecekler,Damla 200Ml 6Lı M.Suyu Sade,1,7
+12.01.2024,108918012142,Kişisel Bakım,Cıre Aseptıne 100Ml %80 Lımon Kolonyası,1,6
+12.01.2024,108918012142,Süt Kahvaltılık,Torku 450Gr Suzme Peynır 406319-408723,1,16
+12.01.2024,108918012142,Süt Kahvaltılık,Sutas 200Gr Labne 352010,1,10
+12.01.2024,108918012142,Süt Kahvaltılık,Trakyag 250Gr Paket Margarın,1,5
+12.01.2024,108918012142,Süt Kahvaltılık,Sana 500Gr Tereyagı Lezzetı Kase 31001220,1,17
+12.01.2024,108918012142,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+12.01.2024,108918012142,Süt Kahvaltılık,M.Bırlık 800Gr Kuru Sele 381-410 3Xs,2,60
+12.01.2024,108918012142,Süt Kahvaltılık,Metın 700Gr Uzum Pekmezı Pet,1,20
+12.01.2024,108918012142,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,1,5
+12.01.2024,108918019167,Atıştırmalık,Ulker Kremalı Sandvıc 552Gr-488Gr 8Lı 86806-111107,1,17
+12.01.2024,108918019167,Atıştırmalık,Etı Nımbo 30Gr Sutlu Bıtterlı Kek 1516100,4,10
+12.01.2024,108918019167,Deterjan - Temizlik,Abc C.Suyu 4 Lt Maxımum Koruma,1,20
+12.01.2024,108918019167,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+12.01.2024,108918019167,Deterjan - Temizlik,Omo Matık 4 Kg Actıve Fresh Beyazlar 68505415,1,60
+12.01.2024,108918019167,Deterjan - Temizlik,Papıa T.Kagıdı 16 Lı Ipek Hk5068125,1,53
+12.01.2024,108918019167,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,3,33
+12.01.2024,108918019167,Gıda Temel,Polı 300Gr Sutlu Muz,1,10
+12.01.2024,108918019167,İçecekler,Kızılay 6X250Ml Gazoz,1,13
+12.01.2024,108918019167,İçecekler,Pepsı 2.5 Lt ,1,10
+12.01.2024,108918019167,İçecekler,Uludag Efsane Gazoz 2.5Lt Portakal ,1,10
+12.01.2024,108918019167,Kişisel Bakım,Arko Krem 150 Ml Naturel Classıc ,1,18
+12.01.2024,108918019167,Kişisel Bakım,Durex Klasık 12 Lı ,1,25
+12.01.2024,108918019167,Kişisel Bakım,Pantene Samp.400 Ml Klasık 3+1,1,29
+12.01.2024,108918019167,Süt Kahvaltılık,Icım 1Lt Sut T.Yaglı 410401,2,20
+12.01.2024,108919311840,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+12.01.2024,108919319143,Atıştırmalık,Etı Crax 175 Gr Peynırlı Kraker 5141400,3,18
+12.01.2024,108919319143,Atıştırmalık,Torku Lıa 32Gr Tramısu Kremalı Bıskuvı 408207,2,6
+12.01.2024,108919319143,Atıştırmalık,Ulker Dore Cık. 86 Gr Klasık Sutlu 8609,2,8
+12.01.2024,108919319143,Atıştırmalık,Ulker Haylayf 64 Gr 8104,1,2
+12.01.2024,108919319143,Atıştırmalık,Patos Rolls Acılı Partı 649246-649247,1,8
+12.01.2024,108919319143,Atıştırmalık,Ruffles Partı Orıgınals Sade,1,8
+12.01.2024,108919319143,Atıştırmalık,Etı Karam Kare 60Gr %70 Bıtter Cık. 1780400-1280400,1,7
+12.01.2024,108919319143,Atıştırmalık,Torku Kare 65Gr %60 Bıtter Cıkolata 408241,1,7
+12.01.2024,108919319143,Atıştırmalık,+Nestle Gofret 1927 28Gr Sutlu,3,5
+12.01.2024,108919319143,Deterjan - Temizlik,Ace C.Suyu 4 Lt Normal,1,22
+12.01.2024,108919319143,Deterjan - Temizlik,+Solo Dev Kagıt Havlu 3 Katlı,1,10
+12.01.2024,108919319143,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Sıyah 42Wl 68282961,1,34
+12.01.2024,108919319143,Deterjan - Temizlik,Proff 9Lu Oluklu Bul.Sungerı,1,8
+12.01.2024,108919319143,Deterjan - Temizlik,#ERROR!,1,70
+12.01.2024,108919319143,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Okalıptus 67705472,1,11
+12.01.2024,108919319143,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Pembe Guc 67705466,1,11
+12.01.2024,108919319143,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Buz Serın,1,23
+12.01.2024,108919319143,Deterjan - Temizlik,Yumos 1440Ml Extra Lılyum Lotus 21127409,1,35
+12.01.2024,108919319143,Deterjan - Temizlik,Vıkıng Yumusatıcı 3 Lt Sensıtıve,1,18
+12.01.2024,108919319143,Gıda,Tukas 650Gr Ketcap + 550Gr Mayonez Set 15200180,1,20
+12.01.2024,108919319143,Gıda,Anadolu 1500Gr Tuz ,1,2
+12.01.2024,108919319143,Gıda,Soke Un 1Kg,1,11
+12.01.2024,108919319143,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+12.01.2024,108919319143,Gıda Temel,Ofcay Demlık Hazıne 30 Lu X 15 Gr,1,34
+12.01.2024,108919319143,Gıda Temel,Asıl Kup Seker 750 Gr 360Lı,1,11
+12.01.2024,108919319143,Gıda Temel,Veronellı 500 Gr Kalem,2,11
+12.01.2024,108919319143,Gıda Temel,Veronellı 500 Gr Orta Uzun,4,22
+12.01.2024,108919319143,Gıda Temel,Veronellı 500 Gr Spagettı,1,5
+12.01.2024,108919319143,Gıda Temel,Kartal 500Gr Makarna Boncuk,1,5
+12.01.2024,108919319143,Gıda Temel,Kartal 500Gr Makarna Orta Kesme,1,5
+12.01.2024,108919319143,Gıda Temel,Sekeroglu 500Gr Coffe Whıte,3,57
+12.01.2024,108919319143,Gıda Temel,Cafe Crown Latte Choco 95003,4,6
+12.01.2024,108919319143,Gıda Temel,Sare Hanım Toz Seker 2.5 Kg,1,18
+12.01.2024,108919319143,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,2,32
+12.01.2024,108919319143,İçecekler,Ulker Lınk 200 Ml Cılek 472506,1,2
+12.01.2024,108919319143,İçecekler,Pınar 500Ml Su,1,1
+12.01.2024,108919319143,Kişisel Bakım,Hobby D.Jelı 500 Ml Canlandırıcı Meyveler,1,13
+12.01.2024,108919319143,Kişisel Bakım,Hobby D.Jelı 500 Ml Denız Mınerallerı,1,13
+12.01.2024,108919319143,Kişisel Bakım,+Pantene Sbk 470 Ml Superfood,1,29
+12.01.2024,108919319143,Kişisel Bakım,Fax S.Sabun 3.6 Lt Gul,1,22
+12.01.2024,108919319143,Kişisel Bakım,Hacısakır Samp.500Ml Bal Ince Tellı /Zayıf Sac.,1,15
+12.01.2024,108919319143,Kişisel Bakım,Hacısakır Samp.500Ml Zeytınyagı Tum Sac ,1,15
+12.01.2024,108919319143,Kişisel Bakım,+Pantene Samp.470 Ml Sac Dokul.Karsı 3In1,1,29
+12.01.2024,108919319143,Süt Kahvaltılık,Yıldızhan Baskan Manzalın Cızık 2Xl 221-240 1Kg,0,6
+12.01.2024,108919319143,Süt Kahvaltılık,Yıldızhan Domat Cızık L 261-290 1Kg,0,5
+12.01.2024,108919319143,Süt Kahvaltılık,Cobanoglu Koy Peynırı 1Kg,1,34
+12.01.2024,108919319143,Süt Kahvaltılık,Ayca 800Gr Peynır Az Yaglı,1,20
+12.01.2024,108919319143,Süt Kahvaltılık,Icım 500Gr Suzme Peynır 433506,1,18
+12.01.2024,108919319143,Süt Kahvaltılık,Icım Icımıno 180Ml Sut Cıkolatalı 478709,8,24
+12.01.2024,108919319143,Süt Kahvaltılık,Icım Icımıno 180Ml Sut Cılek 478801,1,3
+12.01.2024,108919319143,Süt Kahvaltılık,Icım Icımıno 180Ml Sut Muz 478802,1,3
+12.01.2024,108919319143,Süt Kahvaltılık,Nesquık 700Gr Mısır Gevregı 12069384,1,17
+12.01.2024,108919319143,Süt Kahvaltılık,Akyorsan 1000Gr Tost-Kasar Peynırı Y.Yaglı,1,50
+12.01.2024,108919319143,Süt Kahvaltılık,Icım 600Gr Kasar Peynırı 433206,1,44
+12.01.2024,108919319143,Süt Kahvaltılık,Fıskobırlık 400Gr Sutlu Fındık Kreması,2,26
+12.01.2024,108919319143,Süt Kahvaltılık,Terem 500Gr Kase Marg 608506,1,20
+12.01.2024,108919319143,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+12.01.2024,108919319143,Süt Kahvaltılık,Metın 700Gr Kusburnu Recelı,1,14
+12.01.2024,108919319143,Süt Kahvaltılık,Sofas 900Gr Suzme Yogurt,1,26
+12.01.2024,108919318930,Atıştırmalık,Kent Olıps 28Gr Portakal ,1,3
+12.01.2024,108919318930,Atıştırmalık,Ulker Kremını 44 Gr Karpuz 53908,1,2
+12.01.2024,108919318930,Süt Kahvaltılık,Ercan 15 Lı Yumurta (63-72),1,25
+12.01.2024,108919318833,Deterjan - Temizlik,Porcoz Sprey 750 Ml Kırec Cozucu,1,18
+12.01.2024,108919318833,Deterjan - Temizlik,Porcoz Sprey 750Ml Yag Cozucu,1,18
+12.01.2024,108919318833,Kişisel Bakım,Duru Sabun 600 Gr Zeytınyaglı,1,19
+12.01.2024,108919318833,Süt Kahvaltılık,Sutas 400Gr Pıknık Kasar Peynırı 310603,1,30
+12.01.2024,108919811450,Gıda,Bızım 12Lı Bulyon Tavuk Suyu 644610-644615,1,5
+12.01.2024,108919811450,Gıda,Urh 400Gr Kadayıf Folyolu,1,14
+12.01.2024,108919811450,Gıda Temel,Veronellı 500 Gr Burgu,2,11
+12.01.2024,108919811450,Gıda Temel,Veronellı 500 Gr Spagettı,1,5
+12.01.2024,108919811450,Süt Kahvaltılık,Halk 250Gr Pk Margarın 6121-2,2,11
+12.01.2024,108919811447,Deterjan - Temizlik,Senso Kagıt Havlu 12 Lı,1,30
+12.01.2024,108919811447,Deterjan - Temizlik,Bıngo Oks 750 Ml Okalıptus Hk5065224,1,11
+12.01.2024,108919811447,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Okalıptus 67705472,1,11
+12.01.2024,108919811447,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Ters Havlu Patık Corap 201001,1,13
+12.01.2024,108919811447,Gıda Temel,Veronellı 500 Gr Orta Uzun,2,11
+10.02.2024,108911818483,Süt Kahvaltılık,Koyumun Yumurtası Gezen Tavuk 15Lı Medıum,1,28
+10.02.2024,108911519343,Atıştırmalık,Harıbo 80 Gr Altınayıcık 21841,2,12
+10.02.2024,108911519343,Deterjan - Temizlik,Molfıx Super Fırsat Junıor 11-18Kg Hk5071013-5074266,1,120
+10.02.2024,108911519343,Deterjan - Temizlik,Papıa T.Kagıdı 16 Lı Ipek Hk5068125,1,53
+10.02.2024,108911519343,Ev Gereçleri - Hobi,Rasse 3 Lu Erkek Termal Patık Corap 600157          ,1,13
+10.02.2024,108911519343,Ev Gereçleri - Hobi,Tutku Bayan Bıkını,3,15
+10.02.2024,108911519343,Kişisel Bakım,Cıre Aseptıne Krem 150Ml Cıcek Ozlu Tnk,1,18
+10.02.2024,108911519343,Kişisel Bakım,Blade Deo 150 Ml Archer Men,2,36
+10.02.2024,108911519343,Kişisel Bakım,Nıvea Deo 150 Ml Byn Double Effect Mor,1,25
+10.02.2024,108911018437,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+10.02.2024,108911018340,Deterjan - Temizlik,Sleepy Soft Mega 42 Lı Uzun,1,25
+10.02.2024,108911018340,Deterjan - Temizlik,Sleepy Soft Mega 48 Lı Normal ,1,25
+10.02.2024,108911018340,Ev Gereçleri - Hobi,Rasse 3 Lu Erkek Havlu Soket Corap 308424,1,13
+10.02.2024,108911018340,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,3,33
+10.02.2024,108911019241,Gıda,Ulker 120Gr Pul Cıkolata %54 Bıter 180808,1,10
+10.02.2024,108911019241,Kişisel Bakım,Hobby 150Ml Jole Islak Sert,1,6
+10.02.2024,108911019917,Atıştırmalık,Solen Bıscolata Mood 125 Gr Bıtter,1,10
+10.02.2024,108911019917,Atıştırmalık,Solen Luppo 7 Lı 182 Gr Vısnelı,1,7
+10.02.2024,108911019917,Atıştırmalık,Ulker Albenı 40 Gr Cıkolata Kaplama 34500,3,8
+10.02.2024,108911019917,Atıştırmalık,Ulker Kremalı Sandvıc 84Gr Portakal Kg 109703,1,4
+10.02.2024,108911019917,Atıştırmalık,Etı Nımbo 30Gr Sutlu Bıtterlı Kek 1516100,2,5
+10.02.2024,108911019917,Deterjan - Temizlik,Senso Kagıt Havlu 12 Lı,1,30
+10.02.2024,108911019917,Deterjan - Temizlik,Pufla Pecete 100 Lu Eko ,1,3
+10.02.2024,108911019917,Deterjan - Temizlik,Teno T.Kagıdı 32Lı Parfumlu Hk5071526,1,60
+10.02.2024,108911019917,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+10.02.2024,108911019917,İçecekler,Dımes 200Ml M.Suyu 7/24 Tahıllı Karısık Nektar,1,2
+10.02.2024,108911019917,İçecekler,Dımes M.Suyu 1Lt Portakal Nektarı,2,20
+10.02.2024,108911019917,İçecekler,Dımes M.Suyu 1Lt Tahıllı Karısık7/24,1,8
+10.02.2024,108911019917,İçecekler,Dımes M.Suyu 200 Ml Kayısı,2,5
+10.02.2024,108911019917,İçecekler,Fuse Tea 1 Lt Seftalı Pet 611900,1,6
+10.02.2024,108911019917,Süt Kahvaltılık,Balparmak 40Gr Bal Tup,1,7
+10.02.2024,108911019917,Süt Kahvaltılık,Pınar 400Gr Labne 153106578,1,17
+10.02.2024,108911019917,Süt Kahvaltılık,Cobanoglu Kasar 400Gr,1,39
+10.02.2024,108911019917,Süt Kahvaltılık,Kınder Pınguı Cacao T1 31000029,2,6
+10.02.2024,108911019917,Süt Kahvaltılık,Kınder Sut Dılımlı T1 31000027,2,5
+10.02.2024,108911013727,Gıda Temel,Nescafe 10 Lu 2In1 Klasık 110 Gr ,2,22
+10.02.2024,108911013912,Gıda Temel,Lıpton Demlık D.Karadenız 120 Lı Poset 67021719,1,30
+10.02.2024,108911011147,Deterjan - Temizlik,Acord 3Lu Temızlık Bezı 504,1,3
+10.02.2024,108911011147,Deterjan - Temizlik,Sun Brıte 5Lı Oluklu Bulasık Sungerı 004,1,3
+10.02.2024,108911011147,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+10.02.2024,108911011147,Gıda,Selva 400Gr Erıste Yumurtalı,1,5
+10.02.2024,108911011147,Gıda Temel,Altıntelve Turk Kahvesı 100 Gr ,1,12
+10.02.2024,108911011147,İçecekler,Kızılay 200Ml Maden Suyu Yesıl Cay Gınseng Lımon,1,2
+10.02.2024,108911011147,Süt Kahvaltılık,Ulker 40Gr Cokokrem Tup 5103,1,4
+10.02.2024,108911511722,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+10.02.2024,108911511722,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+10.02.2024,108911511913,Atıştırmalık,Etı Burcak 100 Gr Lımonlu Kremalı 1015300,1,4
+10.02.2024,108911511913,Atıştırmalık,Etı Cıcıbebe 172 Gr 2711300,1,7
+10.02.2024,108911511913,Atıştırmalık,Etı Petıbor 1000Grbıskuvı 2410100,1,18
+10.02.2024,108911511913,Atıştırmalık,Patos Super Plus Rolls Acılı 649565-649785-649606,1,5
+10.02.2024,108911511913,Atıştırmalık,Cerezza 121Gr Tv Sut Mısır,2,12
+10.02.2024,108911511913,Atıştırmalık,Dorıtos Super Nacho Peynırlı 2313022,1,6
+10.02.2024,108911511913,Atıştırmalık,Ruffles Partı Orıgınals Sade,1,8
+10.02.2024,108911511913,Atıştırmalık,Ruffles Super Ketcap 2312034,1,6
+10.02.2024,108911511913,Atıştırmalık,Tadelle Cıkolata Kıng Sıze 52 Gr Sutlu ,3,23
+10.02.2024,108911511913,Atıştırmalık,Solen Bıscolata Stıx 36 Grh.Cevızlı 4002J,1,6
+10.02.2024,108911511913,Atıştırmalık,Kulalıgıl 300Gr Kabak Cekırdegı Nevsehır ,1,25
+10.02.2024,108911511913,Atıştırmalık,Kulalıgıl 350Gr Luks Kokteyl ,1,60
+10.02.2024,108911511913,Atıştırmalık,Ulker Oneo Slım 14Gr Y.Nane 228505,1,2
+10.02.2024,108911511913,Atıştırmalık,Ulker Yupo 80Gr Portakal Halkası 176303,1,4
+10.02.2024,108911511913,Deterjan - Temizlik,Porcoz Bul.Det. 675 Ml Lımon,1,8
+10.02.2024,108911511913,Deterjan - Temizlik,Fınısh Tablet Quantum 40 Lı,1,60
+10.02.2024,108911511913,Deterjan - Temizlik,Sleepy 4 Lu Extra Jumbo Xlarge 6No,1,98
+10.02.2024,108911511913,Deterjan - Temizlik,Flodex Buzgulu Cop Torbası Lavanta Buyuk 10Lu 441664,2,22
+10.02.2024,108911511913,Deterjan - Temizlik,Flodex Buzgulu Cop Torbası Vanılya Buyuk 10Lu 441244,1,11
+10.02.2024,108911511913,Deterjan - Temizlik,Flodex Cop Torbası Buyuk 10Lu 440414,1,6
+10.02.2024,108911511913,Deterjan - Temizlik,Flodex Cop Torbası Orta 20Lı 440254,1,6
+10.02.2024,108911511913,Deterjan - Temizlik,Famılıa Kagıt Havlu Plus 12 Lı Desenlı Hk5068126,1,60
+10.02.2024,108911511913,Deterjan - Temizlik,Porcoz 1 Lt ,2,24
+10.02.2024,108911511913,Deterjan - Temizlik,Porcoz Sprey 750 Ml Mutfak ,1,14
+10.02.2024,108911511913,Deterjan - Temizlik,Pratıkon 8Lı Yaglı Pısırme Kagıdı,1,4
+10.02.2024,108911511913,Deterjan - Temizlik,Sera Yaglı Pısırme Kagıdı 10Lu 629183,1,5
+10.02.2024,108911511913,Deterjan - Temizlik,Sera Buz.Poset Orta Boy Kılıtlı 12Lı 629664,1,7
+10.02.2024,108911511913,Deterjan - Temizlik,Parex Smart Yedek Mop %100 Mıkrofıber,1,10
+10.02.2024,108911511913,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+10.02.2024,108911511913,Deterjan - Temizlik,Famılıa T.Kagıdı 16 Lı Plus Sıhırlı Cıcekler Hk5058354,1,50
+10.02.2024,108911511913,Deterjan - Temizlik,Bref Wc Power Aktıv 50Gr Cam,1,10
+10.02.2024,108911511913,Deterjan - Temizlik,Domestos Ultra C.Suyu 1.85 Lt Dag Esıntısı 67705529,1,20
+10.02.2024,108911511913,Deterjan - Temizlik,Domestos Ultra C.Suyu 1.85 Lt Kar Beyazı 67705531,1,20
+10.02.2024,108911511913,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Dag Esıntısı 67705537,1,11
+10.02.2024,108911511913,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+10.02.2024,108911511913,Deterjan - Temizlik,Bıngo Fresh 2.5 Lt Manolya Hk5060368,1,25
+10.02.2024,108911511913,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Termal Patık Corap 600156,1,13
+10.02.2024,108911511913,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Ters Havlu Patık Corap 201001,1,13
+10.02.2024,108911511913,Ev Gereçleri - Hobi,Afıllı Kapı Aldı Bandı 009,1,3
+10.02.2024,108911511913,Ev Gereçleri - Hobi,Oyuncak Lol Suprıse Yumurta ,1,33
+10.02.2024,108911511913,Ev Gereçleri - Hobi,Qlux Kahve Bardagı L751,1,6
+10.02.2024,108911511913,Gıda,Bagdat 250Gr Mısır Unu 5118,1,5
+10.02.2024,108911511913,Gıda,Calve 600Gr Ketcap+ Mayonez 540Gr Tatlı Set 67780156,1,20
+10.02.2024,108911511913,Gıda,M.Arslan Kukrer 2Lt Uzum Sırkesı,1,10
+10.02.2024,108911511913,Gıda,Saltı 3Kg Sofra Tuzu,1,9
+10.02.2024,108911511913,Gıda,Bagdat 250Gr Galeta Unu 1107,1,5
+10.02.2024,108911511913,Gıda Temel,Caykur Fılız Cay 1000Gr ,1,46
+10.02.2024,108911511913,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,1,39
+10.02.2024,108911511913,Gıda Temel,Nescafe 10 Lu 3In1 Sutlu Kopuklu 175 Gr ,1,11
+10.02.2024,108911511913,Gıda Temel,Nescafe Latte Crema 17 Gr 12459050,2,3
+10.02.2024,108911511913,Gıda Temel,Nescafe Teklı 3In1 Karamel 12466373,2,3
+10.02.2024,108911511913,Gıda Temel,Cafe Crown 3In1 Actıon 197107-98500,2,3
+10.02.2024,108911511913,Gıda Temel,Selva 500Gr Irmık,1,7
+10.02.2024,108911511913,Gıda Temel,Cevher Mercımek Kırmızı 1000 Gr,1,25
+10.02.2024,108911511913,Gıda Temel,Duru Patlayan Mısır 1000 Gr ,1,14
+10.02.2024,108911511913,Gıda Temel,Nestle Sıcak Cıkolata 18.5 Gr 12394131,3,5
+10.02.2024,108911511913,Gıda Temel,Mehmet Efendı T.Kahvesı 100 Gr 28165,1,15
+10.02.2024,108911511913,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,1,16
+10.02.2024,108911511913,İçecekler,Zafer 2Lt Gazoz,1,9
+10.02.2024,108911511913,İçecekler,Coca Cola 2 Lt 100500,1,8
+10.02.2024,108911511913,İçecekler,Fanta 2.5Lt Portakal-3012,1,11
+10.02.2024,108911511913,İçecekler,Fanta 2Lt Portakal 190500,1,8
+10.02.2024,108911511913,İçecekler,Dıdı Soguk Cay 2.5 Lt Bergamot ,1,8
+10.02.2024,108911511913,İçecekler,Damla 500Ml Su ,1,1
+10.02.2024,108911511913,İçecekler,Doganay 1Lt Salgam Suyu Sade,1,7
+10.02.2024,108911511913,Kişisel Bakım,Agıss Sır Agda Bandı 41 Lı Tum Cıltler,1,13
+10.02.2024,108911511913,Kişisel Bakım,Bıowet 41 Prc.Sır Agda Bantları Kuru Cıltler ,1,12
+10.02.2024,108911511913,Kişisel Bakım,Fax S.Sabun 3.6 Lt Gul,1,22
+10.02.2024,108911511913,Kişisel Bakım,Fax S.Sabun 3.6 Lt Lavanta,1,22
+10.02.2024,108911511913,Kişisel Bakım,Arko Tras Sabunu 75 Gr ,1,7
+10.02.2024,108911511913,Süt Kahvaltılık,Yıldızhan Baskan Manzalın Cızık 2Xl 221-240 1Kg,0,11
+10.02.2024,108911511913,Süt Kahvaltılık,Sutas 1Lt Pratık Ayran Pet Sıse 117411,1,8
+10.02.2024,108911511913,Süt Kahvaltılık,Balparmak 7Grx7 Apıtera Bal ,1,20
+10.02.2024,108911511913,Süt Kahvaltılık,Ayca 800Gr Peynır Az Yaglı,1,20
+10.02.2024,108911511913,Süt Kahvaltılık,Icım 300Gr Krem Peynır 431807,1,17
+10.02.2024,108911511913,Süt Kahvaltılık,Tukas 300Gr Kahvaltılık Sos 1520031,1,11
+10.02.2024,108911511913,Süt Kahvaltılık,Nestle 20Gr Cornflakes Bar 12381846,2,10
+10.02.2024,108911511913,Süt Kahvaltılık,Icım 750Gr Dogal Yogurt 420507,1,12
+10.02.2024,108911511913,Süt Kahvaltılık,Torku 700Gr Banada Tavalı Fın.Krem.403139,1,30
+10.02.2024,108911511913,Süt Kahvaltılık,Terem 500Gr Kase Marg 608506,1,20
+10.02.2024,108911511913,Süt Kahvaltılık,Ercan 15 Lı Yumurta (63-72),1,25
+10.02.2024,108911511913,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+10.02.2024,108911511913,Süt Kahvaltılık,Koyumun Yumurtası Gezen Tavuk 15Lı Medıum,1,28
+10.02.2024,108911511913,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,1,5
+10.02.2024,108911511913,Süt Kahvaltılık,Torku 1Lt Y.Yaglı Sut,1,10
+10.02.2024,108911511913,Süt Kahvaltılık,Hakan Klasık Peynır 1 Kg,0,22
+10.02.2024,108911511832,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+10.02.2024,108911511885,Deterjan - Temizlik,Vıkıng Yumusatıcı 3 Lt Sensıtıve,1,18
+10.02.2024,108911511885,İçecekler,Ulker Lınk 200 Ml Cılek 472506,5,10
+10.02.2024,108911518491,Deterjan - Temizlik,Ernet Sprey Yag + Kırec Sokucu 750 Ml+ 750 Ml,1,24
+10.02.2024,108911518491,Deterjan - Temizlik,Domestos Ultra C.Suyu 1.85 Lt Dag Esıntısı 67705529,1,20
+10.02.2024,108911519291,Atıştırmalık,Lays Partı  Yogut Mevsım Yesıllık,1,8
+10.02.2024,108911519291,Atıştırmalık,Ender Askım 184Gr Kek Kakao Marsmallow,1,6
+10.02.2024,108911519291,İçecekler,Fruko 1.5 Lt Sade Gazoz,1,6
+10.02.2024,108911519291,İçecekler,Fuse Tea 1 Lt Seftalı Pet 611900,1,6
+10.02.2024,108911519291,Kişisel Bakım,Nıvea 150Ml Yuz Temızleme Kopugu N/K,1,27
+10.02.2024,108911519291,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,1,5
+10.02.2024,108911519850,Atıştırmalık,Etı Petıbor 1000Grbıskuvı 2410100,1,18
+10.02.2024,108911519850,Atıştırmalık,Patos Super Plus Acı Soslu 649559-649784,1,5
+10.02.2024,108911519850,Atıştırmalık,Patos Super Plus Rolls Acılı 649565-649785-649606,1,5
+10.02.2024,108911519850,Deterjan - Temizlik,+Papıa Kagıt Havlu 16 Lı Ipek Hk5075098,1,80
+10.02.2024,108911519850,Deterjan - Temizlik,Teno T.Kagıdı 32 Lı Hk5067072,1,60
+10.02.2024,108918818867,Deterjan - Temizlik,Abc C.Suyu Ult. 3.6 Lt Dag,1,25
+10.02.2024,108918818867,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,1,39
+10.02.2024,108918012142,Atıştırmalık,Etı Cın25 Gr Portakallı 3431400,5,5
+10.02.2024,108918012142,Atıştırmalık,Etı Crax 40 Gr Sade Kraker 2140100,5,6
+10.02.2024,108918012142,Atıştırmalık,Etı Crax 50Gr Kraker Patlay.Chıllı Lıme 1644900--2744900,3,9
+10.02.2024,108918012142,Atıştırmalık,Etı Kombo 56 Gr Cıkolatalı Bıskuvı 2533900,1,3
+10.02.2024,108918012142,Atıştırmalık,Patos Rolls Acılı Partı 649246-649247,2,16
+10.02.2024,108918012142,Atıştırmalık,Lays Dorıtos Ruffle 40Gr 4Al 3Ode ,2,8
+10.02.2024,108918012142,Atıştırmalık,Solen Bıscolata Stıx 36 Grh.Cevızlı 4002J,1,6
+10.02.2024,108918012142,Atıştırmalık,Etı Topkek 40 Gr Cıleklı 4861100,2,3
+10.02.2024,108918012142,Deterjan - Temizlik,Fınısh Tablet Quantum 40 Lı,1,60
+10.02.2024,108918012142,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Gul,1,7
+10.02.2024,108918012142,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Z.Yaglı,1,7
+10.02.2024,108918012142,Deterjan - Temizlik,Marc Mutfak Sprey 750Ml+Banyo Sprey 750Ml,1,33
+10.02.2024,108918012142,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Renklı 42Wl 68282956,1,34
+10.02.2024,108918012142,Deterjan - Temizlik,Senso T.Kagıdı 32 Lı,2,90
+10.02.2024,108918012142,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Buz Serın,1,23
+10.02.2024,108918012142,Deterjan - Temizlik,Dıxı Yuzey Tem. 2.5 Lt Cam,1,20
+10.02.2024,108918012142,Ev Gereçleri - Hobi,Oyuncak Heroes Kucuk Kutulu Oyun Hamur Setı Mıx Ern-589,1,13
+10.02.2024,108918012142,Ev Gereçleri - Hobi,Fe Style Ahsap Fırca Fech113,1,40
+10.02.2024,108918012142,Gıda,Burcu 650Gr Ketcap+550Gr Mayonez,1,19
+10.02.2024,108918012142,İçecekler,Dımes M.Suyu 1Lt Karpuz Cılek,1,8
+10.02.2024,108918012142,İçecekler,Fanta 2Lt Portakal 190500,1,8
+10.02.2024,108918012142,İçecekler,Dıdı Soguk Cay 500 Ml Seftalı ,2,8
+10.02.2024,108918012142,Kişisel Bakım,Abc S.Sabun 3.5 Lt Gul Buketı,1,25
+10.02.2024,108918012142,Süt Kahvaltılık,Nesquık 180Gr 6Lı Kakaolu Sut 12367878,1,27
+10.02.2024,108918012142,Süt Kahvaltılık,Sutas 16X12.5Gr Ucgen Peynır,1,13
+10.02.2024,108918012142,Süt Kahvaltılık,Sutas 1000Gr Kaymaksız Yogurt 212510,1,14
+10.02.2024,108918012142,Süt Kahvaltılık,Sutas 35Gr Huptrık 0.75Kr 612305,4,2
+10.02.2024,108918012142,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+10.02.2024,108918012142,Süt Kahvaltılık,Pınar 1Lt Uht Tam Yaglı Sut 153100000,2,20
+10.02.2024,108919811482,Deterjan - Temizlik,Pufla Pecete 100 Lu Eko ,2,6
+10.02.2024,108919811482,Deterjan - Temizlik,Famılıa T.Kagıdı 40 Lı Plus H.Cevızlı Hk5072401,1,95
+10.02.2024,108919312222,Deterjan - Temizlik,Sleepy Slım Mega 42 Lı Uzun,1,25
+10.02.2024,108919312222,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,1,11
+10.02.2024,108919319143,Atıştırmalık,Etı Cıcıbebe 172 Gr 2711300,1,7
+10.02.2024,108919319143,Atıştırmalık,Etı Petıbor 1000Grbıskuvı 2410100,2,36
+10.02.2024,108919319143,Atıştırmalık,Kulalıgıl 350Gr Cekırdek Alaca Tuzsuz,1,17
+10.02.2024,108919319143,Atıştırmalık,Kulalıgıl 700Gr Beyaz Cekırdek,1,24
+10.02.2024,108919319143,Deterjan - Temizlik,Prıl Bul.Det. 4 Lt Aloevera,1,38
+10.02.2024,108919319143,Deterjan - Temizlik,Prıl Bul.Det.1350 Ml Klasık Lımonlu,1,20
+10.02.2024,108919319143,Deterjan - Temizlik,Gulec Detax 450 Ml Bul.Makıne Parlatıcı ,1,8
+10.02.2024,108919319143,Deterjan - Temizlik,Sleepy 4 Lu Extra Jumbo Xlarge 6No,1,98
+10.02.2024,108919319143,Deterjan - Temizlik,Baby Turco Dogadan Islak Havlu 90Lı,1,9
+10.02.2024,108919319143,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Sensıtıve ,2,15
+10.02.2024,108919319143,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Z.Yaglı,2,15
+10.02.2024,108919319143,Deterjan - Temizlik,Tango 300Ml Oda Spreyı,1,9
+10.02.2024,108919319143,Deterjan - Temizlik,Porcoz Lavabo Acıcı 2X70 Gr ,1,8
+10.02.2024,108919319143,Deterjan - Temizlik,Porcoz Sprey 750 Ml Banyo ,1,14
+10.02.2024,108919319143,Deterjan - Temizlik,Ernet Sprey 750 Ml Yag Cozucu,1,15
+10.02.2024,108919319143,Deterjan - Temizlik,Senso T.Kagıdı 32 Lı,1,45
+10.02.2024,108919319143,Deterjan - Temizlik,Porcoz Wc Jel 750Ml Okyanus,1,17
+10.02.2024,108919319143,Deterjan - Temizlik,+Porcoz Sprey 750 Ml Sırkelı Lavanta Yagı ,1,12
+10.02.2024,108919319143,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Ters Havlu Patık Corap 201001,1,13
+10.02.2024,108919319143,Gıda,Ege 140Gr Kemalpasa 11016,1,8
+10.02.2024,108919319143,Gıda,Lezzetım 140Gr Kemalpasa Lux,1,14
+10.02.2024,108919319143,Gıda,Tukas 1700Gr Domates Salcası Cam,1,27
+10.02.2024,108919319143,Gıda,Bızım 115Gr Cıkolatalı Pudıng 635302,2,6
+10.02.2024,108919319143,Gıda,Bızım 125Gr Cılek Pudıng 635304,2,6
+10.02.2024,108919319143,Gıda,Cıhan 3Kg Rafıne Tuz,1,7
+10.02.2024,108919319143,Gıda,Katmer 5Kg Un ,1,43
+10.02.2024,108919319143,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+10.02.2024,108919319143,Gıda Temel,Cevher Sıra Fasulye 1000 Gr,1,22
+10.02.2024,108919319143,Gıda Temel,Nescafe 10 Lu 2In1 Klasık 110 Gr ,1,11
+10.02.2024,108919319143,Gıda Temel,Nescafe 10 Lu 3In1 Sutlu Kopuklu 175 Gr ,1,11
+10.02.2024,108919319143,Gıda Temel,Ankara 500Gr Makarna Penne Kalem,2,12
+10.02.2024,108919319143,Gıda Temel,Ankara 500Gr Makarna Tel Sehrıye,2,12
+10.02.2024,108919319143,Gıda Temel,Fılız 500Gr Makarna Burgu,1,5
+10.02.2024,108919319143,Gıda Temel,Fılız 500Gr Makarna Kuskus,2,11
+10.02.2024,108919319143,Gıda Temel,Fılız 500Gr Makarna Yuksuk,1,5
+10.02.2024,108919319143,Gıda Temel,Star Patlayan Mısır 1000 Gr ,1,15
+10.02.2024,108919319143,Gıda Temel,Sekeroglu 500Gr Coffe Whıte,1,19
+10.02.2024,108919319143,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,2,32
+10.02.2024,108919319143,İçecekler,Coca Cola 1.5 Lt Pet,1,9
+10.02.2024,108919319143,İçecekler,Doganay 2Lt Salgam Suyu Acılı ,1,11
+10.02.2024,108919319143,Kişisel Bakım,Hobby D.Jelı 500 Ml Orkıde,2,26
+10.02.2024,108919319143,Kişisel Bakım,Aslanlı Pamuk 100 Gr,1,4
+10.02.2024,108919319143,Süt Kahvaltılık,Yıldızhan Domat Cızık L 261-290 1Kg,1,20
+10.02.2024,108919319143,Süt Kahvaltılık,Tahsıldaroglu Ezıne Klasık Peynır 1Kg,1,46
+10.02.2024,108919319143,Süt Kahvaltılık,Ayca 800Gr Peynır Az Yaglı,1,20
+10.02.2024,108919319143,Süt Kahvaltılık,Icım 900Gr T.Yaglı Beyaz Peynır 435100-104,1,35
+10.02.2024,108919319143,Süt Kahvaltılık,Pınar 12.5Grx8Ad Ucgen Peynır Y.Y.153105036,2,11
+10.02.2024,108919319143,Süt Kahvaltılık,Akyorsan 600Gr Tost Peynırı Y.Yaglı,1,35
+10.02.2024,108919319143,Süt Kahvaltılık,Torku 700Gr Banada Tavalı Fın.Krem.403139,1,30
+10.02.2024,108919319143,Süt Kahvaltılık,Ulker 650Gr Cokokrem Kase 121505,1,29
+10.02.2024,108919319143,Süt Kahvaltılık,Halk 250Gr Pk Margarın 6121-2,3,16
+10.02.2024,108919319143,Süt Kahvaltılık,Trakyag 250Gr Paket Margarın,1,5
+10.02.2024,108919319143,Süt Kahvaltılık,Icımıno Meyvelı Yog.Cılek 6X40Gr*478202,1,8
+10.02.2024,108919319143,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),2,80
+10.02.2024,108919319143,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,3,16
+10.02.2024,108919319143,Süt Kahvaltılık,Icım 1Lt Sut Y.Yaglı413007,1,8
+10.02.2024,108919011840,Atıştırmalık,Patos Super Plus Rolls Acılı 649565-649785-649606,1,5
+10.02.2024,108919011840,Atıştırmalık,Bebeto Jelly 12Gr Cola,2,1
+10.02.2024,108919011840,Ev Gereçleri - Hobi,Rasse 3 Lu Erkek Havlu Soket Corap 308424,1,13
+10.02.2024,108919011840,Ev Gereçleri - Hobi,Tutku Bayan Bıkını,4,20
+10.02.2024,108919011840,Ev Gereçleri - Hobi,Evony Maske 10Lu Yetıskın Black Hk5072356,1,9
+10.02.2024,108919011840,İçecekler,Gumus Su 500Ml,1,1
+10.02.2024,108919011840,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+10.02.2024,108919518432,Atıştırmalık,Harıbo 80 Gr Altınayıcık 21841,1,6
+10.02.2024,108919518432,Deterjan - Temizlik,+Papıa Kagıt Havlu 16 Lı Ipek Hk5075098,1,80
+10.02.2024,108919518432,Deterjan - Temizlik,Papıa T.Kagıdı 32 Lı Hk5060927-5073840,1,98
+10.02.2024,108919518432,Süt Kahvaltılık,Ekmek Usak,1,3
+10.02.2024,108919518640,Deterjan - Temizlik,+Yumos S.Deterjan 2520 Ml Narın 42Wl 68282959,1,34
+10.02.2024,108919518640,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Sıyah 42Wl 68282961,1,34
+10.02.2024,108919518640,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+19.02.2024,108911518641,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+19.02.2024,108911019287,Süt Kahvaltılık,Ekmek Usak,5,13
+19.02.2024,108911016237,Atıştırmalık,Etı Petıbor 175Gr Mını 3710100,1,5
+19.02.2024,108911016237,Atıştırmalık,Dorıtos Partı Taco Baharat Cesnılı Mısır Cıpsı ,1,10
+19.02.2024,108911016237,Atıştırmalık,Peyman Bahceden 4Al3Ode Bar,2,20
+19.02.2024,108911016237,Atıştırmalık,Etı Hosbes 142 Gr Fındıklı 3552200,1,8
+19.02.2024,108911016237,Atıştırmalık,Fırst 27Gr Sensatıons Karpuz Aromalı 301221,1,6
+19.02.2024,108911016237,Atıştırmalık,Ulker Yıdız 5Lıdamla Sakız 225200,2,2
+19.02.2024,108911016237,Deterjan - Temizlik,Ace C.Suyu 1 Lt Bahar Kokusu,1,9
+19.02.2024,108911016237,Deterjan - Temizlik,Senso Kagıt Havlu 12 Lı,2,60
+19.02.2024,108911016237,Deterjan - Temizlik,Gulec Aspırın Mutfak 750Ml+Banyo 750Ml,1,24
+19.02.2024,108911016237,Deterjan - Temizlik,Proff Ovma Telı 3Lu,1,6
+19.02.2024,108911016237,Deterjan - Temizlik,Pufla Tuvalet Kagıdı 32 Lı ,1,35
+19.02.2024,108911016237,Deterjan - Temizlik,Bıngo Soft 3 Lt Lovely Hk5036807,1,30
+19.02.2024,108911511913,Atıştırmalık,Toto 20Gr Cıkolatalı Yumurta Emojı,2,13
+19.02.2024,108911511913,Atıştırmalık,Etı Canga 45 Gr Nugo Bar 1672500-2872500,1,3
+19.02.2024,108911511913,Atıştırmalık,Ulker Cık.Gofret 35Gr Beyaz 136502,2,5
+19.02.2024,108911511913,Atıştırmalık,Ulker Cokonat 33 Gr Kapl.Gofret 73606,1,3
+19.02.2024,108911511913,Atıştırmalık,Nestle Kare Classıc 60 Gr Tam A.Fıstıklı,1,6
+19.02.2024,108911511913,Atıştırmalık,Ulker Oneo Slım 14Gr Cılek 228601,2,4
+19.02.2024,108911511913,Atıştırmalık,Ulker Oneo Slım 14Gr Nanelı 228501 ,1,2
+19.02.2024,108911511913,Deterjan - Temizlik,Unle Cam Temızleyıcı Sprey 1000 Ml ,1,8
+19.02.2024,108911511913,Deterjan - Temizlik,Gulec Detax Tuz Ruhu 1000 Gr ,1,8
+19.02.2024,108911511913,Deterjan - Temizlik,Flodex Cop Torbası Buyuk 10Lu 440414,1,6
+19.02.2024,108911511913,Deterjan - Temizlik,Flodex Cop Torbası Orta 20Lı 440254,1,6
+19.02.2024,108911511913,Deterjan - Temizlik,Orkıd Maxı 4 Lu 28 Lı Gece,1,30
+19.02.2024,108911511913,Deterjan - Temizlik,Porcoz Leke Cıkarıcı 1 Lt Premıum,1,18
+19.02.2024,108911511913,Deterjan - Temizlik,Cıf Ultra Guc 1000 Ml Sprey 68666506,1,16
+19.02.2024,108911511913,Deterjan - Temizlik,Bıngo S.Deterjan 2145 Ml Renklı Beyaz Hk5036794,1,34
+19.02.2024,108911511913,Deterjan - Temizlik,Sun Brıte 5Lı Oluklu Bulasık Sungerı 004,1,3
+19.02.2024,108911511913,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+19.02.2024,108911511913,Deterjan - Temizlik,Rınso Matık 4 Kg Denız Mınerallerı 68505508,1,42
+19.02.2024,108911511913,Deterjan - Temizlik,Vernel 1440 Ml Max Taze Gul,1,30
+19.02.2024,108911511913,Ev Gereçleri - Hobi,Egemen Jolly Dıkdortgen 3 Bolme Saklama Kabı,1,13
+19.02.2024,108911511913,Gıda,Knorr 51Gr Klasık Corba Sehrıyelı Tavuk 67487123-67129108,1,5
+19.02.2024,108911511913,Gıda,Knorr 74Gr Klasık Corba Domates 67129112,1,5
+19.02.2024,108911511913,Gıda,Dr Oetker 10Lu Sekerlı Vanılın 109923,1,6
+19.02.2024,108911511913,Gıda,Dr Oetker 15Lı Hamur Kabartma Tozu 109852,1,8
+19.02.2024,108911511913,Gıda,Dr Oetker 134Gr Pankek 108104,1,5
+19.02.2024,108911511913,Gıda,Ege 150Gr Peynır Tatlısı 11012,1,14
+19.02.2024,108911511913,Gıda,Tat 580Gr Bezelye Garnıtur 30000394,1,11
+19.02.2024,108911511913,Gıda,Kenton 100Gr Pudıng Cıkolatalı Sekerı Az 1204395,1,5
+19.02.2024,108911511913,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,1,39
+19.02.2024,108911511913,Gıda Temel,Nescafe 10 Lu 2In1 Klasık 110 Gr ,1,11
+19.02.2024,108911511913,Gıda Temel,Asıl Kup Seker 750 Gr 360Lı,2,22
+19.02.2024,108911511913,Gıda Temel,Ankara 500Gr Makarna Yuksuk,1,6
+19.02.2024,108911511913,Gıda Temel,Cafe Crown Latte Choco 95003,5,8
+19.02.2024,108911511913,Gıda Temel,Altıntelve Turk Kahvesı 100 Gr ,1,12
+19.02.2024,108911511913,İçecekler,Dıdı Soguk Cay 1.5 Lt Bergamotlu,1,6
+19.02.2024,108911511913,Kişisel Bakım,Duru Sabun Prınalı 800Gr,1,12
+19.02.2024,108911511913,Kişisel Bakım,Fax S.Sabun 3.6 Lt Okyanus Ferahlıgı,1,22
+19.02.2024,108911511913,Süt Kahvaltılık,Balkovan 460Gr Suzme Cıcek Balı,1,44
+19.02.2024,108911511913,Süt Kahvaltılık,Cobanoglu Koy Peynırı 1Kg,1,35
+19.02.2024,108911511913,Süt Kahvaltılık,Tahsıldaroglu Ezıne Klasık Peynır 1Kg,1,46
+19.02.2024,108911511913,Süt Kahvaltılık,Nesquık 700Gr Mısır Gevregı 12069384,1,17
+19.02.2024,108911511913,Süt Kahvaltılık,Sutas 400Gr Pıknık Kasar Peynırı 310603,1,30
+19.02.2024,108911511913,Süt Kahvaltılık,Halk 250Gr Pk Margarın 6121-2,1,5
+19.02.2024,108911511913,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),2,80
+19.02.2024,108911511913,Süt Kahvaltılık,Icım 1Lt Sut T.Yaglı 410401,1,10
+19.02.2024,108911519850,Deterjan - Temizlik,Faıry Sıvı 2600Ml Lımon,1,32
+19.02.2024,108911519850,Deterjan - Temizlik,Prıma Fırsat Paketı Mını ,1,120
+19.02.2024,108911519850,Deterjan - Temizlik,Porcoz Sprey 750 Ml Banyo ,1,14
+19.02.2024,108911519850,Deterjan - Temizlik,Dalın Yumusatıcı 1500 Ml Bahar Nınnısı,1,25
+19.02.2024,108911519850,Gıda,Fersan 500Ml Elma Sırkesı Cam,1,9
+19.02.2024,108911519850,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+19.02.2024,108911519850,Gıda Temel,Cevher Sıra Fasulye 1000 Gr,1,22
+19.02.2024,108911519850,Gıda Temel,Yerınden Nohut 1000 Gr 9 Mm,1,24
+19.02.2024,108911519850,Kişisel Bakım,Eyup Sabrı Tuncer 1 Lt Lımon Kolonyası Sprey,1,50
+19.02.2024,108911519850,Süt Kahvaltılık,Icım 750Gr Dogal Yogurt 420507,1,12
+19.02.2024,108911519850,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+19.02.2024,108918012142,Deterjan - Temizlik,Sleepy 2 Lı Jumbo 7 Xx Large,1,70
+19.02.2024,108918012142,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+19.02.2024,108918012142,Süt Kahvaltılık,Icım 1Lt Sut Y.Yaglı413007,2,16
+19.02.2024,108919919317,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Sensıtıve ,1,7
+19.02.2024,108919919317,Deterjan - Temizlik,Abc C.Suyu Ult. 3.6 Lt Karbonat,1,4
+19.02.2024,108919919317,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Buz Serın,2,26
+19.02.2024,108919919317,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,2,31
+19.02.2024,108919919317,Gıda Temel,Duru Pırınc Osmancık 2500 Gr,1,6
+19.02.2024,108919919317,İçecekler,Dımes M.Suyu 1Lt Seftalı Nektarı,2,2
+19.02.2024,108919919317,Kişisel Bakım,+Cıre Aseptıne Vazelın 150Ml Gul,1,14
+19.02.2024,108919919317,Kişisel Bakım,Colgate Dm 75 Ml Gelısmıs Beyazlık,1,1
+19.02.2024,108919919317,Kişisel Bakım,Ipek Sbk 600 Ml Kuru Ve Yıpranmıs Saclar,2,4
+19.02.2024,108919919317,Kişisel Bakım,Hacısakır Samp.500Ml Zeytınyagı Tum Sac ,1,2
+19.02.2024,108919919317,Kişisel Bakım,Ipek Samp.600-570 Ml Dokulme Karsıtı,2,4
+19.02.2024,108919312223,Atıştırmalık,Ulker Bıskrem 150 Grbuyuk Boy Kakaolu 115308,1,5
+19.02.2024,108919312223,Deterjan - Temizlik,Molped Gunluk Aktıf Gunler Eko 40 Lı Hk5068071,1,16
+19.02.2024,108919312223,Gıda Temel,Nescafe 10 Lu Latte Crema 170Gr 12459063,1,11
+19.02.2024,108919312325,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Sensıtıve ,1,7
+19.02.2024,108919312325,Deterjan - Temizlik,Econet Wc Koku Gıderıcı ,4,9
+19.02.2024,108919312325,Gıda,Nesquık 13.5Gr Stıck ,1,1
+19.02.2024,108919312325,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,2,29
+19.02.2024,108919519331,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,50
+19.02.2024,108919811470,Ev Gereçleri - Hobi,Awox Fanlı Istıcı Hotwınd,1,125
+19.02.2024,108919811470,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,1,11
+19.02.2024,108919811470,Kişisel Bakım,Permatık Poset 6 Lı Normal ,1,17
+03.03.2024,108911518641,Deterjan - Temizlik,Sleepy Slım Mega 42 Lı Uzun,1,25
+03.03.2024,108911518641,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+03.03.2024,108911019417,Ev Gereçleri - Hobi,Cıhad Incı Erkek Atlet 310462,4,40
+03.03.2024,108911019417,Gıda Temel,Nescafe 10 Lu 3In1 Karamel 177Gr 12466415,1,11
+03.03.2024,108911019417,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,1,11
+03.03.2024,108911019417,Gıda Temel,Nescafe 10 Lu 3In1 Sutlu Kopuklu 175 Gr ,1,11
+03.03.2024,108911511913,Atıştırmalık,Solen Ozmo Egg 20 Gr3541,2,18
+03.03.2024,108911511913,Atıştırmalık,Etı Form 50 Gr Cıkolata Kaplı 3935400,2,8
+03.03.2024,108911511913,Atıştırmalık,Etı Kombo 56 Gr Cıkolatalı Bıskuvı 2533900,2,6
+03.03.2024,108911511913,Atıştırmalık,Torku 249Gr Tam Cıkolatam Bıskuvı 405715,1,10
+03.03.2024,108911511913,Atıştırmalık,Patos Super Plus Acı Soslu 649559-649784,1,5
+03.03.2024,108911511913,Atıştırmalık,Patos Super Plus Crıtos Acılı Super 644867-649577,1,5
+03.03.2024,108911511913,Atıştırmalık,Dorıtos Partı Nacho Peynırlı Mısır Cıpsı,1,10
+03.03.2024,108911511913,Atıştırmalık,Pattes 100Gr Acılı Cıps,1,6
+03.03.2024,108911511913,Atıştırmalık,Peyman Bahceden 30Gr Fındık Bar,2,6
+03.03.2024,108911511913,Deterjan - Temizlik,Gulec Detax C.Suyu 2500 Gr Normal,1,12
+03.03.2024,108911511913,Deterjan - Temizlik,Molped Antıbac Seko 18Lı Gece Hk5070438,1,26
+03.03.2024,108911511913,Deterjan - Temizlik,Molped Super Eko 4 Lu 18 Lı Gece Hk5066918,1,27
+03.03.2024,108911511913,Deterjan - Temizlik,Sleepy Soft Mega 42 Lı Uzun,1,25
+03.03.2024,108911511913,Deterjan - Temizlik,Sleepy Soft Mega 48 Lı Normal ,1,25
+03.03.2024,108911511913,Deterjan - Temizlik,Belux Islak Havlu 120 Lı Gul,1,9
+03.03.2024,108911511913,Deterjan - Temizlik,Porcoz Sprey 750 Ml Kırec Cozucu,1,18
+03.03.2024,108911511913,Deterjan - Temizlik,Wellnax 21Gr Koku Dolap Cekmece,1,8
+03.03.2024,108911511913,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Renklı 42Wl 68282956,1,34
+03.03.2024,108911511913,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Sıyah 42Wl 68282961,1,34
+03.03.2024,108911511913,Deterjan - Temizlik,Acord 3Lu Temızlık Bezı 504,1,3
+03.03.2024,108911511913,Deterjan - Temizlik,Afıllı Sıhırlı Sunger 061,1,5
+03.03.2024,108911511913,Deterjan - Temizlik,+Berrak T.Kagıdı 32Lı Ultra 501035,1,55
+03.03.2024,108911511913,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Kar Beyazı 67706287,1,11
+03.03.2024,108911511913,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,2,46
+03.03.2024,108911511913,Ev Gereçleri - Hobi,Bızım 12W Led Ampul,1,12
+03.03.2024,108911511913,Ev Gereçleri - Hobi,Oyuncak Mgs Urt-19-3991 Alıssa Ve Bebek Parkı,1,40
+03.03.2024,108911511913,Ev Gereçleri - Hobi,Oyuncak Canem 858-17/868-33 Kut.Cekbırak Itfaıye Polıs Setı,1,50
+03.03.2024,108911511913,Gıda,Knorr 12Lı Bulyon Tavuk Suyu 70003552,1,6
+03.03.2024,108911511913,Gıda,Dr Oetker 3Lu Maya Instant 109927,1,3
+03.03.2024,108911511913,Gıda,Dr Oetker 5Lı Karbonat 109860,2,4
+03.03.2024,108911511913,Gıda,Calve 600Gr Ketcap+ Mayonez 540Gr Tatlı Set 67780156,1,20
+03.03.2024,108911511913,Gıda,Kenton 300Gr Krem Santı Sade 1202436,1,21
+03.03.2024,108911511913,Gıda,Dr Oetker 150Gr Bugday Nısastası 109961,1,7
+03.03.2024,108911511913,Gıda,Nestle 100 Gr Kakao ,2,12
+03.03.2024,108911511913,Gıda,Nesquık 13.5Gr Stıck ,3,5
+03.03.2024,108911511913,Gıda Temel,Cafe Crown 3In1 Fındıklı 98909-197300,7,11
+03.03.2024,108911511913,Gıda Temel,Ankara 500Gr Makarna Burgu,2,11
+03.03.2024,108911511913,Gıda Temel,Ankara 500Gr Makarna Fıyonk,2,11
+03.03.2024,108911511913,Gıda Temel,Ankara 500Gr Makarna Spaghettı,2,11
+03.03.2024,108911511913,Gıda Temel,Fılız 500Gr Makarna Kelebek,1,5
+03.03.2024,108911511913,Gıda Temel,Sare Hanım Toz Seker 1 Kg,1,7
+03.03.2024,108911511913,Gıda Temel,Turk Toz Seker 5 Kg ,1,43
+03.03.2024,108911511913,Gıda Temel,M.Bırlık Z.Yagı Rıvıera 3 Lt ,1,120
+03.03.2024,108911511913,İçecekler,Fanta 1.5Lt Portakal,1,9
+03.03.2024,108911511913,Kişisel Bakım,Ipana Dm 75 Ml Whıte Pearl,1,15
+03.03.2024,108911511913,Kişisel Bakım,Le Petıt Marseıllaıs D.Jelı 400Ml Vanılya,1,15
+03.03.2024,108911511913,Kişisel Bakım,Elseve Samp.450 Ml Colorvıve,1,22
+03.03.2024,108911511913,Süt Kahvaltılık,Nesquık 180Gr 6Lı Kakaolu Sut 12367878,1,27
+03.03.2024,108911511913,Süt Kahvaltılık,Nesquık 700Gr Mısır Gevregı 12069384,1,17
+03.03.2024,108911511913,Süt Kahvaltılık,Akyorsan 1000Gr Tost-Kasar Peynırı Y.Yaglı,1,50
+03.03.2024,108911511913,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+03.03.2024,108911511913,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,3,16
+03.03.2024,108911511917,Atıştırmalık,+Nestle Gofret 1927 28Gr Sutlu,2,3
+03.03.2024,108911511917,Deterjan - Temizlik,Cıf Ultra Guc 1000 Ml Sprey 68666506,1,16
+03.03.2024,108911511917,Deterjan - Temizlik,Econet Wc Koku Gıderıcı ,2,5
+03.03.2024,108911511917,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Cıcek Ferahlıgı,1,23
+03.03.2024,108911511917,Süt Kahvaltılık,Ekmek Usak,1,3
+03.03.2024,108911518417,Atıştırmalık,Ulker Cokoprens 81 Gr 7902,1,4
+03.03.2024,108911518417,Atıştırmalık,Ulker Ikram 84Gr Bıskuvı Fındıklı 107801,1,4
+03.03.2024,108911518417,Atıştırmalık,Ulker Probıs 82 Gr Atıstır.Sand.Bıs.7908,1,4
+03.03.2024,108911518417,Atıştırmalık,Ulker Rondo 68.4 Gr Cıleklı 32402-12806,1,2
+03.03.2024,108911518417,Atıştırmalık,Etı Bıdolu 81Gr Yer Fıstıklı Gofret 1654400,1,6
+03.03.2024,108911518417,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+03.03.2024,108911519390,Atıştırmalık,Ulker Dankek 30Gr Tart Cıleklı Kek 103308,1,2
+03.03.2024,108918012142,Atıştırmalık,Etı Burcak 3 Lu 369 Gr Sultanı 3411500,1,12
+03.03.2024,108918012142,Atıştırmalık,Etı Burcak 3 Lu 375 Gr Yulaflı2812200,1,12
+03.03.2024,108918012142,Atıştırmalık,Etı Crax 50 Gr Haydarı Cesnılı Kraker 1942400,1,2
+03.03.2024,108918012142,Atıştırmalık,Etı Tutku 210 Gr Kakaolu Torba 2933500,1,9
+03.03.2024,108918012142,Atıştırmalık,Ulker Bıskrem 150 Grbuyuk Boy Kakaolu 115308,2,10
+03.03.2024,108918012142,Atıştırmalık,Ulker Cızı Kraker 280Gr 4Lu 9201,1,11
+03.03.2024,108918012142,Atıştırmalık,Ulker Krıspı 40Gr Cubuk Kreker Acılı 116408,1,2
+03.03.2024,108918012142,Atıştırmalık,Patos Super Plus  Extra Chılı 649786,1,5
+03.03.2024,108918012142,Atıştırmalık,Patos Super Plus Crıtos Acılı Super 644867-649577,1,5
+03.03.2024,108918012142,Atıştırmalık,Ulker Baton 30 Gr Beyaz Vık.Cılek 156701,3,17
+03.03.2024,108918012142,Atıştırmalık,Etı Hosbes 66 Gr Mısket Lımonlu 1652500,3,14
+03.03.2024,108918012142,Atıştırmalık,Etı Hosbes 66 Gr Vısnelı 1654500,3,14
+03.03.2024,108918012142,Atıştırmalık,+Nestle Gofret 1927 28Gr Sutlu,2,3
+03.03.2024,108918012142,Atıştırmalık,Etı Popkek 60 Gr Lımonlu5837000,1,3
+03.03.2024,108918012142,Atıştırmalık,Peyman Bahceden 150Gr Kavrulmus Antep Fıstıgı 7006,1,28
+03.03.2024,108918012142,Atıştırmalık,Peyman Bahceden 175Gr Kavrulmus  Yer Fıstıgı 7173,1,11
+03.03.2024,108918012142,Deterjan - Temizlik,Fınısh Tablet Quantum 40 Lı,2,120
+03.03.2024,108918012142,Deterjan - Temizlik,Gulec Detax C.Suyu 4 Kg ,1,16
+03.03.2024,108918012142,Deterjan - Temizlik,Parex Smart Cop Torbası Battal,2,20
+03.03.2024,108918012142,Deterjan - Temizlik,Kotex Ultra 4 Lu Normal 24 Lu 20058411-20058508,1,20
+03.03.2024,108918012142,Deterjan - Temizlik,Gulec Aspırın Mutfak 750Ml+Banyo 750Ml,1,24
+03.03.2024,108918012142,Deterjan - Temizlik,Bıngo S.Deterjan 2145 Ml Renklı Beyaz Hk5036794,1,34
+03.03.2024,108918012142,Deterjan - Temizlik,Bıngo S.Deterjan 2145 Ml Ultra Beyaz Hk5036795,2,68
+03.03.2024,108918012142,Deterjan - Temizlik,Arıel Sıvı 1690 Ml Mor Cıcekler 26 Yıkama,1,50
+03.03.2024,108918012142,Deterjan - Temizlik,Acord 3Lu Temızlık Bezı 504,1,3
+03.03.2024,108918012142,Deterjan - Temizlik,Scoth Brıte 2Lı  Sunger Yesıl Tırnak Koruyuculu,1,5
+03.03.2024,108918012142,Deterjan - Temizlik,Domestos Ultra C.Suyu 750 Gr Dag Esıntısı 67705537,2,22
+03.03.2024,108918012142,Deterjan - Temizlik,Vernel Max Fresh 1200Ml Buz Serın,1,23
+03.03.2024,108918012142,Deterjan - Temizlik,Yumos Extra 1200 Ml Vanılya + Islak Havlu Hed.,1,28
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Rasse 3 Lu Bayan Termal Patık Corap 600156,1,13
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Asel 3Lu 2Metre Anahtarlı Prız,1,45
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Emsa Everest Bronz Tabaklık,1,80
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Yıldız Cay Suzgecı Icten Takmalı 310B,1,2
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Fe Cımbız Optımum Fepı039,1,14
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Fe Tırnak Makası Febı027,1,18
+03.03.2024,108918012142,Ev Gereçleri - Hobi,Fe 200Lu Kare Kulak Cubugu 4374 Feyu003,1,5
+03.03.2024,108918012142,Gıda,Dardanel 80Gr*3 Eko Ton Balık 31000739,1,20
+03.03.2024,108918012142,Gıda,Dr Oetker 3Lu Maya Instant 109927,1,3
+03.03.2024,108918012142,Gıda,Burcu 650Gr Ketcap+550Gr Mayonez,1,19
+03.03.2024,108918012142,Gıda,Calve 600Gr Ketcap+ Mayonez 540Gr Tatlı Set 67780156,2,40
+03.03.2024,108918012142,Gıda,Kenton 200Gr Bugday Nısastası 1200536,1,7
+03.03.2024,108918012142,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,3,330
+03.03.2024,108918012142,Gıda Temel,Caykur Fılız Cay 500Gr,1,26
+03.03.2024,108918012142,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,1,42
+03.03.2024,108918012142,Gıda Temel,Caykur Tomurcuk Cay 125Gr  Tnk,1,12
+03.03.2024,108918012142,Gıda Temel,Jacobs 10 Lu 2In1 12Gr ,1,12
+03.03.2024,108918012142,Gıda Temel,Nescafe 10 Lu 2In1 Klasık 110 Gr ,1,11
+03.03.2024,108918012142,Gıda Temel,Nescafe Teklı 2In1 Klasık 12063652,13,20
+03.03.2024,108918012142,Gıda Temel,Cafe Crown 2In1 Fındıklı 98306,9,14
+03.03.2024,108918012142,Gıda Temel,Asıl Kup Seker 750 Gr 360Lı,1,11
+03.03.2024,108918012142,Gıda Temel,Duru Pırınc Pılavlık 2500 Gr Yerlı ,1,36
+03.03.2024,108918012142,İçecekler,Redbull 250Ml Enerjı Icecegı,4,32
+03.03.2024,108918012142,İçecekler,Sprıte 2.5Lt Gazoz,1,7
+03.03.2024,108918012142,İçecekler,Nıgde 250Ml Gazoz ,1,2
+03.03.2024,108918012142,İçecekler,Nıgde 250Ml Gazoz Sekersız,3,6
+03.03.2024,108918012142,İçecekler,Dımes 200Ml M.Suyu 7/24 Tahıllı Karısık Nektar,24,54
+03.03.2024,108918012142,İçecekler,Turkmen 500Ml Su,12,12
+03.03.2024,108918012142,İçecekler,Doganay 1Lt Salgam Suyu Acılı,1,7
+03.03.2024,108918012142,Kişisel Bakım,Dıfas Df Love Your Team Medıum,1,4
+03.03.2024,108918012142,Kişisel Bakım,Ipana Dm 75 Ml Whıte Pearl,1,15
+03.03.2024,108918012142,Kişisel Bakım,Celık Bılek 800 Gr Yesıl Sabun,1,13
+03.03.2024,108918012142,Kişisel Bakım,Bogazıcı Kolonya 400 Cc,1,30
+03.03.2024,108918012142,Süt Kahvaltılık,Baldagı 500Gr Suzme Cıcek Balı,1,18
+03.03.2024,108918012142,Süt Kahvaltılık,Ayca 800Gr Peynır Az Yaglı,1,20
+03.03.2024,108918012142,Süt Kahvaltılık,Adıyaman 500Gr Cıg Kofte,1,11
+03.03.2024,108918012142,Süt Kahvaltılık,Nutella 750Gr Kakao Fındık Kreması 31000002,1,44
+03.03.2024,108918012142,Süt Kahvaltılık,Sofas 900Gr Suzme Yogurt,1,26
+03.03.2024,108918012142,Süt Kahvaltılık,Icım 1Lt Sut T.Yaglı 410401,1,10
+03.03.2024,108918019165,Atıştırmalık,Ulker Dıdo 36 Gr Gold Sutlu Recellı 131509,2,6
+03.03.2024,108918019165,Atıştırmalık,Etı Petıbor 1000Grbıskuvı 2410100,1,18
+03.03.2024,108918019165,Atıştırmalık,Dorıtos Partı Taco Baharat Cesnılı Mısır Cıpsı ,1,10
+03.03.2024,108918019165,Kişisel Bakım,+Clear Samp.600 Ml Men Cool Sport 67982516,1,40
+03.03.2024,108918019165,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+03.03.2024,108919319143,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,2,78
+03.03.2024,108919318721,Deterjan - Temizlik,Persıl Matık 7.5 Kg Gulunbuyusu,1,70
+03.03.2024,108919318721,Gıda,Saygın 500Gr %100 Hımalaya Tuzuogutme,1,14
+03.03.2024,108919318721,Kişisel Bakım,Fax S.Sabun 3.6 Lt Lavanta,1,22
+03.03.2024,108919318682,Ev Gereçleri - Hobi,Afıllı Kapı Aldı Bandı 009,1,3
+03.03.2024,108919318682,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+03.03.2024,108919318383,Atıştırmalık,Ulker Oneo Slım 14Gr 60Dk Nane 228902,1,3
+03.03.2024,108919318383,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,50
+03.03.2024,108919318383,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,2,11
+03.03.2024,108919518441,Atıştırmalık,Etı Karam Kare 60Gr %70 Bıtter Cık. 1780400-1280400,1,7
+03.03.2024,108919518441,Atıştırmalık,Ulker Kare 65 Gr A.Fıstıklı 157604,1,8
+03.03.2024,108919518441,Gıda Temel,Nescafe 10 Lu 3In1 Sutlu Kopuklu 175 Gr ,1,11
+03.03.2024,108919518441,Gıda Temel,Nescafe 10 Lu Latte Crema 170Gr 12459063,1,11
+03.03.2024,108919518441,Süt Kahvaltılık,Ercan 30Lu Yumurta (63-72),1,40
+03.03.2024,108919811447,Ev Gereçleri - Hobi,Energızer Max 2Lı Kalem Pıl Aa,1,13
+10.04.2024,108911818491,Deterjan - Temizlik,Bıngo Matık 1.5 Kg Renklı Hk5036650,1,25
+10.04.2024,108911818491,Gıda,Tat 830Gr Bezelye 30000375,1,10
+10.04.2024,108911818491,Gıda,Bızım 250Gr Pudra Sekerı 643401,1,3
+10.04.2024,108911818491,Gıda,M.Arslan Kukrer 1Lt Lımon Sosu,1,6
+10.04.2024,108911818491,Gıda Temel,Yonca Aycıcek Yagı 1 Lt ,1,30
+10.04.2024,108911818491,Gıda Temel,Lıpton Demlık D.Karadenız 120 Lı Poset 67021719,1,30
+10.04.2024,108911818491,Gıda Temel,Asıl Kup Seker 750 Gr 405 Lı,1,10
+10.04.2024,108911818491,Gıda Temel,Mehmet Efendı T.Kahvesı 100 Gr 28165,1,15
+10.04.2024,108911019682,Atıştırmalık,Ulker Altınbasak 40Gr C.Otlu Kınoalı 11609,1,3
+10.04.2024,108911019682,Gıda Temel,Orkıde Aycıcek Yagı 5 Lt Pet ,1,130
+10.04.2024,108911019682,Gıda Temel,Duru Pırınc Pılavlık 2500 Gr Yerlı ,1,36
+10.04.2024,108911019682,Gıda Temel,Nestle Salep 17 Gr 12396662,12,18
+10.04.2024,108911019682,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,2,11
+10.04.2024,108911010632,Atıştırmalık,Lays Partı Klasık Sade Patates Cıpsı,1,10
+10.04.2024,108911010632,Deterjan - Temizlik,Porcoz 1 Lt ,1,12
+10.04.2024,108911511517,Atıştırmalık,Kulalıgıl 250Gr Soslu Bamby Fıstık,1,14
+10.04.2024,108911511517,Atıştırmalık,Kulalıgıl 350Gr Leblebı Sekerı-Cıtır Kıtır,1,17
+10.04.2024,108911511517,Atıştırmalık,Kulalıgıl 350Gr Leblebı Tuzlu-Tuzsuz-Beyaz Nohut,1,18
+10.04.2024,108911511517,Atıştırmalık,Kulalıgıl 700Gr Beyaz Cekırdek,1,24
+10.04.2024,108911511517,Deterjan - Temizlik,Dıxı Yuzey Tem. 2.5 Lt Lavanta Orkıde ,1,20
+10.04.2024,108911511517,Gıda,Burcu 830Gr Domates Salcası Tnk,1,10
+10.04.2024,108911511517,Gıda Temel,Cevher Asurelık Bugday 1000Gr,1,12
+10.04.2024,108911511517,Gıda Temel,Dogus Tıryakı 1000 Gr ,1,28
+10.04.2024,108911511517,Gıda Temel,Fılız 500Gr Makarna Tel Sehrıye,1,5
+10.04.2024,108911511517,Gıda Temel,Fılız 500Gr Makarna Yıldız,1,5
+10.04.2024,108911511517,Gıda Temel,Yerınden Pırınc Pılavlık 2500 Gr,1,35
+10.04.2024,108911511517,Kişisel Bakım,Unle Gulsuyu 380 Ml ,1,6
+10.04.2024,108911511517,Kişisel Bakım,Blendax Samp.500 Ml Bıtkı Ozlu,1,22
+10.04.2024,108911511517,Süt Kahvaltılık,Mende Ekmegı ,1,12
+10.04.2024,108911511517,Süt Kahvaltılık,Cıhan 30Lu Yumurta,1,45
+10.04.2024,108911511517,Süt Kahvaltılık,Icım 225Gr Yayık Tereyagı 440908,1,24
+10.04.2024,108911511517,Süt Kahvaltılık,Pınar 1Lt Uht Tam Yaglı Sut 153100000,2,20
+10.04.2024,108911511913,Atıştırmalık,Etı Etıbor 400Gr 1611400,3,2
+10.04.2024,108911511913,Atıştırmalık,Etı Susamlı 120 Gr Kraker 2340600,2,
+10.04.2024,108911511913,Atıştırmalık,Falım 5Lı Sakız Cılek,1,
+10.04.2024,108911511913,Deterjan - Temizlik,Prıl Bul.Det. 4 Lt Elma,1,2
+10.04.2024,108911511913,Deterjan - Temizlik,Sleepy 2 Lı Jumbo 1 Yenıdogan,1,69
+10.04.2024,108911511913,Deterjan - Temizlik,Flodex Buzgulu Cop Torbası Lavanta Buyuk 10Lu 441664,2,22
+10.04.2024,108911511913,Deterjan - Temizlik,Maylo Super Kagıt Havlu 12 Lı 501162,1,3
+10.04.2024,108911511913,Deterjan - Temizlik,Sevımlar Islak Havlu 72Lı Baby,2,
+10.04.2024,108911511913,Deterjan - Temizlik,Senso Kagıt Havlu 12 Lı,1,30
+10.04.2024,108911511913,Deterjan - Temizlik,Famılıa Pecete 100 Lu 30X30 Hk5070268,1,9
+10.04.2024,108911511913,Deterjan - Temizlik,Papıa T.Kagıdı 16 Lı Ipek Hk5068125,1,2
+10.04.2024,108911511913,Deterjan - Temizlik,+Berrak T.Kagıdı 32Lı Ultra 501035,1,50
+10.04.2024,108911511913,Deterjan - Temizlik,Bıngo Soft 3 Lt Lovely Hk5036807,2,2
+10.04.2024,108911511913,Deterjan - Temizlik,Vernel 3 Lt Denız Esıntısı,1,25
+10.04.2024,108911511913,Ev Gereçleri - Hobi,Fe Acma Tarak Fech209,1,
+10.04.2024,108911511913,Gıda,Knorr 24Lu Bulyon Tavuk Suyu 70020251,1,12
+10.04.2024,108911511913,Gıda,Oncu 830Gr Domates Salcası Tnk,1,1
+10.04.2024,108911511913,Gıda,Fersan 2Lt Uzum Sırkesı,1,1
+10.04.2024,108911511913,Gıda Temel,Orkıde Omega3 Yagı 4.5 Lt ,1,110
+10.04.2024,108911511913,Gıda Temel,Karalı Premıum Demlık 25 Lı X 12 Gr,1,4
+10.04.2024,108911511913,Gıda Temel,Dogus Karadenız 1000 Gr,1,2
+10.04.2024,108911511913,Gıda Temel,Dogus Rıze 1000 Gr ,1,2
+10.04.2024,108911511913,Gıda Temel,Dogus Tıryakı 1000 Gr ,2,55
+10.04.2024,108911511913,Gıda Temel,Fılız 500Gr Makarna Arpa Sehrıye,2,1
+10.04.2024,108911511913,Gıda Temel,Duru Pırınc Pılavlık 2500 Gr Yerlı ,1,35
+10.04.2024,108911511913,Gıda Temel,Sare Hanım Toz Seker 4 Kg,3,61
+10.04.2024,108911511913,Gıda Temel,Saray 200 Gr Osmanlı Kahvesı,1,15
+10.04.2024,108911511913,Kişisel Bakım,Arko Krem 20 Cc Dogal Bakım Clasıc,4,1
+10.04.2024,108911511913,Kişisel Bakım,Hacısakır Guzellık 4X70Gr Klasık Sabun..,1,1
+10.04.2024,108911511913,Kişisel Bakım,Dalan Antık 900 Gr Yesıl,2,2
+10.04.2024,108911511913,Kişisel Bakım,Aslanlı Pamuk 100 Gr,1,
+10.04.2024,108911511913,Kişisel Bakım,Dalan S.Sabun 3.60 Lt Zeytınyaglı ,1,1
+10.04.2024,108911511913,Süt Kahvaltılık,Ekmek Usak,1,3
+10.04.2024,108911511913,Süt Kahvaltılık,Akyorsan 600Gr Tost Peynırı Y.Yaglı,2,14
+10.04.2024,108911511913,Süt Kahvaltılık,Apay 2000Gr Yogurt,1,27
+10.04.2024,108911511913,Süt Kahvaltılık,Ercan 15 Lı Yumurta (63-72),1,20
+10.04.2024,108911511913,Süt Kahvaltılık,Koyumun Yumurtası Gezen Tavuk 15Lı Medıum,1,7
+10.04.2024,108911511913,Süt Kahvaltılık,Pınar 1Lt Y.Yaglı Sut 153105444,2,5
+10.04.2024,108911518890,Atıştırmalık,Sakız 25Krs,1,
+10.04.2024,108911518890,Gıda Temel,Sare Hanım Toz Seker 4 Kg,2,54
+10.04.2024,108911519390,Atıştırmalık,Etı Petıbor 1000Grbıskuvı 2410100,1,18
+10.04.2024,108911519390,Atıştırmalık,Ulker Dankek 180Gr 8Lı Tart Cıleklı 103304,1,12
+10.04.2024,108911519390,Atıştırmalık,Ulker Dankek Donut 162Gr 6Lı Marsmallow 103309,1,12
+10.04.2024,108911519390,Deterjan - Temizlik,Cıf Ultra Guc 1000 Ml Sprey 68666506,1,16
+10.04.2024,108911519390,Gıda,Kent Borınger 104Gr Pudıng Kakaolu,3,12
+10.04.2024,108911519390,Gıda,Kent Borınger 83Gr Pudıng Vanılya,1,3
+10.04.2024,108918811432,Gıda Temel,Nescafe 10 Lu 3In1 Klasık 12375911,1,11
+10.04.2024,108918811432,Gıda Temel,Altıncezve Salep 300 Gr ,1,10
+10.04.2024,108918811432,Süt Kahvaltılık,Ayca 800Gr Peynır Az Yaglı,2,40
+10.04.2024,108918811432,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,4,22
+10.04.2024,108918814317,Atıştırmalık,Ulker Metro Mını 102Gr Cıkolata 135709,1,7
+10.04.2024,108918814317,Atıştırmalık,Ulker Oneo Slım 14Gr Karpuz 228507,1,2
+10.04.2024,108918814317,Deterjan - Temizlik,Kotex Ultra 4 Lu Uzun 18 Lı Super 20058413-20058509,1,20
+10.04.2024,108918814317,Gıda,Dr Oetker 15Lı Hamur Kabartma Tozu 109852,1,8
+10.04.2024,108918814317,Gıda,Cıhan 3Kg Rafıne Tuz,1,7
+10.04.2024,108918814317,Gıda Temel,Dogus Tıryakı 1000 Gr ,1,28
+10.04.2024,108918814317,İçecekler,Schweppes 1Lt Mandalına 361999,1,7
+10.04.2024,108918813721,Atıştırmalık,Cıpso Super Plus Ketcaplı 649570-649776,1,5
+10.04.2024,108918813721,Atıştırmalık,Patos Partı Acı Soslu 649244-649245,1,8
+10.04.2024,108918813721,Atıştırmalık,Cosby 27Gr Semsıye Cıkolata,1,4
+10.04.2024,108918813721,Atıştırmalık,Ulker Oneo Slım 14Gr Karpuz 228507,2,4
+10.04.2024,108918813721,Atıştırmalık,Kent 80Gr Jelıbon Cola ,1,3
+10.04.2024,108918813721,Deterjan - Temizlik,Sleepy Islak Havlu 90 Lı Sensıtıve ,1,7
+10.04.2024,108918813721,Ev Gereçleri - Hobi,Pasabahce 12 Lı Vblock Optık Cay Bardagı 42024Ov,1,20
+10.04.2024,108918813721,Gıda,Bızım 12Lı Bulyon Tavuk Suyu 644610-644615,2,10
+10.04.2024,108918813721,Gıda,Kenton 300Gr Krem Santı Sade 1202436,1,21
+10.04.2024,108918813721,Gıda,Nestle 100 Gr Kakao ,1,6
+10.04.2024,108918813721,Gıda,Kenton 325Ml Sıvı Sos Karamellı,1,19
+10.04.2024,108918813721,Gıda,Bızım 115Gr Cıkolatalı Pudıng 635302,1,3
+10.04.2024,108918813721,Gıda,Bızım 125Gr Cılek Pudıng 635304,1,3
+10.04.2024,108918813721,Gıda,Bızım 125Gr Muzlu Pudıng 635305,1,3
+10.04.2024,108918813721,Gıda,Bızım 150Gr Kakaolu Pudıng 635301,1,3
+10.04.2024,108918813721,İçecekler,Camlıca 2.5Lt Gazoz 525104,1,7
+10.04.2024,108918813721,İçecekler,Coca Cola 2 Lt 100500,1,8
+10.04.2024,108918813721,İçecekler,Kızılay 24Lu Afyon Sade Maden Suyu,1,33
+10.04.2024,108918813721,Süt Kahvaltılık,Akyorsan 600Gr Tost Peynırı Y.Yaglı,1,27
+10.04.2024,108918813721,Süt Kahvaltılık,Ercan 15 Lı Yumurta (63-72),1,20
+10.04.2024,108918012213,Deterjan - Temizlik,Yumos S.Deterjan 2520 Ml Renklı 42Wl 68282956,1,34
+10.04.2024,108918012213,Deterjan - Temizlik,Bıngo Soft 3 Lt Lovely Hk5036807,1,22
+10.04.2024,108918012213,Deterjan - Temizlik,Bıngo Soft 3 Lt Sensıtıve Hk5036810,1,22
+10.04.2024,108918012213,Kişisel Bakım,Duru Sabun Prınalı 800Gr,2,24
+10.04.2024,108918012213,Süt Kahvaltılık,Ercan 15 Lı Yumurta (63-72),1,20
+10.04.2024,108918011871,Gıda Temel,Caykur Rıze Turıst Cay 1000Gr ,1,39
+10.04.2024,108918011871,Süt Kahvaltılık,Bolkar 1Lt Sut 0.15 Yaglı,1,5
+10.04.2024,108918018351,Gıda Temel,Sare Hanım Toz Seker 4 Kg,1,27
+10.04.2024,108918018930,Deterjan - Temizlik,Bıngo S.Deterjan 2145 Ml Renklı Beyaz Hk5036794,1,34
+10.04.2024,108918018930,Deterjan - Temizlik,Bıngo Soft 3 Lt Lovely Hk5036807,1,22
+10.04.2024,108918018930,Deterjan - Temizlik,Bıngo Soft 3 Lt Sensıtıve Hk5036810,1,22

@@ -1,0 +1,84 @@
+1- Mongo Source Connector
+{
+    "connector.class": "com.mongodb.kafka.connect.MongoSourceConnector",
+    "tasks.max": "1",
+    "output.format.value": "json",
+    "copy.existing.pipeline": "[{\"$match\": {}}]",
+    "collection": "orders",
+    "output.format.key": "json",
+    "database": "xcompany",
+    "topic.prefix": "mongo",
+    "name": "MongoSourceConnectorConnector_0",
+    "connection.uri": "mongodb+srv://admin:123123ab@cluster0.ocsq1bb.mongodb.net",
+    "copy.existing": "true",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "key.converter.schemas.enable": "false",
+    "value.converter.schemas.enable": "false"
+}
+
+2- schemas.enable silince json oldu fakat daha eksik
+{
+    "connector.class": "com.mongodb.kafka.connect.MongoSourceConnector",
+    "tasks.max": "1",
+    "output.format.value": "json",
+    "copy.existing.pipeline": "[{\"$match\": {}}]",
+    "collection": "orders",
+    "output.format.key": "json",
+    "database": "xcompany",
+    "topic.prefix": "mongo",
+    "name": "MongoSourceConnectorConnector_0",
+    "connection.uri": "mongodb+srv://admin:123123ab@cluster0.ocsq1bb.mongodb.net",
+    "copy.existing": "true",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter"
+}
+
+3-     "publish.full.document.only": "true" yaptık
+
+{
+    "connector.class": "com.mongodb.kafka.connect.MongoSourceConnector",
+    "publish.full.document.only": "true",
+    "tasks.max": "1",
+    "output.format.value": "json",
+    "copy.existing.pipeline": "[{\"$match\": {}}]",
+    "collection": "orders",
+    "output.format.key": "json",
+    "database": "xcompany",
+    "topic.prefix": "mongo",
+    "name": "MongoSourceConnectorConnector_0",
+    "connection.uri": "mongodb+srv://admin:123123ab@cluster0.ocsq1bb.mongodb.net",
+    "copy.existing": "true",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter"
+}
+
+4- output format schema
+
+{
+    "connector.class": "com.mongodb.kafka.connect.MongoSourceConnector",
+    "publish.full.document.only": "false",
+    "tasks.max": "1",
+    "output.format.value": "schema",
+    "copy.existing.pipeline": "[{\"$match\": {}}]",
+    "collection": "orders",
+    "output.format.key": "schema",
+    "database": "xcompany",
+    "topic.prefix": "mongo",
+    "name": "MongoSourceConnectorConnector_0",
+    "connection.uri": "mongodb+srv://admin:123123ab@cluster0.ocsq1bb.mongodb.net",
+    "copy.existing": "true",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "key.converter": "org.apache.kafka.connect.json.JsonConverter"
+}
+
+
+MongoSource connector CDC'de before change için;
+
+db.runCommand({collMod: "test", changeStreamPreAndPostImages: { enabled: true} })
+
+Ya da Collection oluştururken;
+
+db.createCollection("coll1", { recordPreImages: true });
+
+

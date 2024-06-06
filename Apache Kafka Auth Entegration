@@ -1,0 +1,70 @@
+Apache Kafka Auth Entegration
+
+1- Adım 1: CA (Certificate Authority) Sertifikası ve Anahtarı Oluşturma
+Öncelikle, kendi CA sertifikanızı ve anahtarınızı oluşturmanız gerekiyor. Bu sertifika, broker ve client sertifikalarını imzalamak için kullanılacaktır.
+
+openssl req -new -x509 -keyout ca-key -out ca-cert -days 365 -subj "/CN=Kafka-CA"
+Bu komut, ca-key adında bir özel anahtar ve ca-cert adında bir CA sertifikası oluşturur.
+
+Görev:
+Bu komutu çalıştırın ve CA sertifikası ile anahtarını oluşturduğunuzu doğrulayın. Oluşan dosyaların isimleri ca-key ve ca-cert olmalıdır.
+
+PEM şifresi, oluşturulan özel anahtar dosyasını (private key) şifrelemek için kullanılan bir paroladır. Bu parolayı daha sonra kullanarak özel anahtarınıza erişebilirsiniz
+
+2- Broker İçin Keystore ve CSR (Certificate Signing Request) Oluşturma
+
+keytool -genkey -keystore kafka.broker1.keystore.jks -validity 365 -storepass 123123 -keypass 123123 -dname "CN=broker1,OU=DevOps,O=YourCompany,L=City,S=State,C=Country" -alias broker1 -keyalg RSA -keysize 2048
+
+
+Bu komut, kafka.broker1.keystore.jks adında bir keystore dosyası oluşturur.
+
+CSR (Certificate Signing Request) Oluşturma
+
+keytool -certreq -keystore kafka.broker1.keystore.jks -storepass 123123 -alias broker1 -file broker1.csr
+
+Bu komut, broker1.csr adında bir CSR dosyası oluşturur.
+
+Görev:
+kafka.broker1.keystore.jks adında bir keystore dosyası oluşturun.
+broker1.csr adında bir CSR dosyası oluşturun.
+
+3- CSR'yi CA ile İmzalama
+Bu adımda, broker1.csr dosyasını kullanarak broker sertifikasını oluşturacağız ve bunu CA sertifikası ile imzalayacağız.
+
+openssl x509 -req -CA ca-cert -CAkey ca-key -in broker1.csr -out broker1-cert -days 365 -CAcreateserial -passin pass:123123
+
+4- Sertifikaları Keystore ve Truststore'a İthal Etme
+keytool -import -keystore kafka.broker1.keystore.jks -storepass 123123 -alias CARoot -file ca-cert -noprompt
+
+Broker Sertifikasını Keystore'a İthal Etme
+keytool -import -keystore kafka.broker1.keystore.jks -storepass 123123 -alias broker1 -file broker1-cert -noprompt
+
+keytool -import -keystore kafka.broker1.truststore.jks -storepass 123123 -alias CARoot -file ca-cert -noprompt
+
+4- server.properties düzenle
+listeners=SSL://0.0.0.0:9093
+advertised.listeners=SSL://139.177.193.39:9093
+listener.security.protocol.map=SSL:SSL
+inter.broker.listener.name=SSL
+ssl.keystore.location=/root/kafka_2.13-3.2.1/kafka.broker1.keystore.jks
+ssl.keystore.password=123123
+ssl.key.password=123123
+ssl.truststore.location=/root/kafka_2.13-3.2.1/kafka.broker1.truststore.jks
+ssl.truststore.password=123123
+
+# SSL client authentication
+ssl.client.auth=required
+
+# Disable hostname verification (optional)
+ssl.endpoint.identification.algorithm=
+
+5- reset kafka
+
+6- client için;
+    config.put("security.protocol", "SSL");
+        config.put("ssl.truststore.location", "/Users/talhaklc/Desktop/keystore_kafka/kafka.broker1.truststore.jks");
+        config.put("ssl.truststore.password", "123123");
+        config.put("ssl.keystore.location", "/Users/talhaklc/Desktop/keystore_kafka/kafka.broker1.keystore.jks");
+        config.put("ssl.keystore.password", "123123");
+        config.put("ssl.key.password", "123123");
+        config.put("ssl.endpoint.identification.algorithm", "");
